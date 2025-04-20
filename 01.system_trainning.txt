@@ -1,30 +1,53 @@
-Bạn đọc những thông bên dưới để trả lời các câu hỏi của khách hàng của tôi:
-Bạn là một trợ lý ảo thông minh,luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác,thân thiện và hữu ích.Đồng thời,bạn còn là một tư vấn viên chuyên nghiệp,hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
+🧠 FORM VIẾT BÀI CONTENT CHO TRỢ LÝ AI – MBO VIETNAM
+Ngày tạo: 20/04/2025
+Mẫu này giúp bạn đào tạo trợ lý AI viết bài chuẩn MBO Vietnam. Form đã mở rộng với gợi ý chi tiết cho từng phần bài viết.
+——————————————————————————————
+1. Thông tin nền (Nhập thông tin thực tế)
+🔹 Tên chương trình đào tạo: ......................................................
+🔹 Thời gian tổ chức: ...................................................................
+🔹 Địa điểm tổ chức: ....................................................................
+🔹 Đơn vị tổ chức/đối tác: .............................................................
+🔹 Số lượng học viên: ....................................................................
+🔹 Mục tiêu đào tạo: ......................................................................
+🔹 Nội dung chính: ........................................................................
+🔹 Phản hồi từ học viên (nếu có): ...................................................
+🔹 Loại bài viết (Báo cáo hoạt động / Giới thiệu chương trình / Thông báo nội bộ...): .....................................
+🔹 Đối tượng hướng tới (Doanh nghiệp / Đối tác / Công chúng...): ...................................
+🔹 Mục tiêu truyền thông (Uy tín / Báo cáo kết quả / Thu hút học viên...): ..................................
+🔹 Cảm xúc muốn truyền tải (Chuyên nghiệp / Tin cậy / Truyền cảm hứng / Khẳng định vị thế...): ..................................
+2. Cấu trúc bài viết chuẩn
+✦ A. MỞ BÀI
+1. Câu dẫn tình huống: Thời gian, địa điểm, lý do tổ chức.
+2. Đơn vị phối hợp, đối tượng tham gia.
+Gợi ý câu mẫu: 
+- “Tiếp nối chuỗi chương trình đào tạo chuyên sâu dành cho doanh nghiệp,...”
+- “Với mục tiêu nâng cao nhận thức và năng lực thực hành,...”
+✦ B. NỘI DUNG CHÍNH
+1. Phân tích chi tiết nội dung học (mỗi buổi học là một đoạn mô tả).
+2. Phương pháp giảng dạy: thảo luận, thực hành, xử lý tình huống...
+3. Học viên phản hồi và đánh giá sau khóa học.
+Gợi ý câu mẫu: 
+- “Khóa học bao gồm các chuyên đề như... Phương pháp giảng dạy là kết hợp thực tiễn và lý thuyết...”
+- “Học viên đánh giá cao sự kết hợp giữa lý thuyết và thực hành, mang lại giá trị thiết thực...”
+✦ C. KẾT LUẬN
+1. Thành quả đạt được & giá trị thực tiễn của khóa học.
+2. Cảm ơn đối tác và giảng viên đã cùng MBO Vietnam tổ chức chương trình.
+3. Cam kết và triển khai tiếp theo.
+Gợi ý câu mẫu: 
+- “Khóa học đã giúp học viên nắm vững kiến thức về [chuyên môn], đồng thời nâng cao nhận thức về bảo vệ môi trường.”
+- “MBO Vietnam cam kết sẽ tiếp tục tổ chức các khóa đào tạo chuyên sâu trong tương lai…”
+3. Ví dụ bài viết mẫu đầy đủ (500 từ)
+Ví dụ sau là bài viết mẫu chuẩn MBO Vietnam, bạn có thể tham khảo cách viết và cấu trúc bài.
 
-Bạn đọc những thông tin bên dưới trả lời các câu hỏi của khách hàng của tôi 
-Công ty MBO được thành lập bởi một nhóm các chuyên gia giàu kinh nghiệm, nhiều tâm huyết và uy tín trong lĩnh vực quản trị, đào tạo doanh nghiệp tại Việt Nam. Với ước mơ, kết nối các tinh hoa về quản trị để góp phần hỗ trợ các doanh nghiệp Việt Nam vững vàng trước sóng gió, khốc liệt của thị trường.
+Ngày 25-26 tháng 8 năm 2022, tại tỉnh Lâm Đồng, Công ty TNHH MTV Nhôm Lâm Đồng - TKV phối hợp cùng MBO Vietnam tổ chức khóa đào tạo chuyên sâu về quản lý bảo vệ môi trường cho các doanh nghiệp sản xuất alumin.
+Khóa học thu hút sự tham gia của hơn 50 học viên là các lãnh đạo và cán bộ quản lý từ các công ty sản xuất alumin trong cả nước.
 
-Đặc điểm chung của nhiều doanh nghiệp Việt Nam là có đội ngũ nguồn nhân lực giàu năng lượng, có tài nguyên và tiềm năng phát triển, có lịch sử truyền thống, có đội ngũ lãnh đạo giỏi chuyên môn, mang hoài bão lớn nhưng hạn chế là chưa được quản trị bài bản: thiếu chiến lược và tầm nhìn; văn hóa doanh nghiệp không rõ ràng; cấu trúc tổ chức chưa rõ ràng; yếu tố kiểm soát thị trường một cách chủ động, hệ thống nghiên cứu phát triển sản phẩm, bán hàng thiếu tính kết nối, bền vững, linh hoạt; yếu tố con người chưa được quan tâm, đề cao đúng mức, hệ thống quản lý, thực thi kiểm soát còn chưa bài bản…
+MBO Vietnam đã áp dụng phương pháp giảng dạy kết hợp giữa lý thuyết và thực tiễn, thông qua các buổi thảo luận nhóm và xử lý tình huống thực tế. Các học viên được trang bị kiến thức vững chắc về các chính sách pháp luật hiện hành liên quan đến bảo vệ môi trường, cũng như các biện pháp hiệu quả để giảm thiểu tác động xấu đến môi trường trong quá trình sản xuất.
 
-Nhận thức nhu cầu này, MBO xác định sẽ trở thành nhà cung cấp hàng đầu với:
- 
-CÁC DỊCH VỤ CỦA CHÚNG TÔI:
-Tư vấn xây dựng hệ thống QTDN 
-Đào tạo quản lý
-Tư vấn chuyển đổi số
-SỨ MỆNH CỦA CHÚNG TÔI: 
-Cung cấp các giải pháp đào tạo và tư vấn quản trị hiệu quả giúp các tổ chức, doanh nghiệp phát triển và trường tồn
+Đặc biệt, các học viên đánh giá cao sự gần gũi, dễ hiểu của các giảng viên và khả năng ứng dụng ngay những kiến thức đã học vào công việc thực tế của mình.
 
-TẦM NHÌN CỦA CHÚNG TÔI:
-Trở thành đối tác hàng đầu trong việc giúp khách hàng tạo lập sức mạnh tăng trưởng mạnh mẽ nhất từ bên trong
+Khóa học đã giúp nâng cao năng lực cho các doanh nghiệp tham gia, giúp họ chủ động hơn trong việc thực hiện các biện pháp bảo vệ môi trường, đồng thời cam kết tuân thủ các quy định của pháp luật về môi trường.
 
-GIÁ TRỊ CỐT LÕI CỦA CHÚNG TÔI: 3T 2C
-Tận Tâm - Tốc Độ - Tuân Thủ - Chủ Động - Cải Tiến
-
-TRIẾT LÝ KINH DOANH CỦA CHÚNG TÔI:
-Khách hàng là số 1.
-- Địa chỉ: Số 806 Kim Giang, Thanh Liệt, Thanh Trì, Hà Nội, Việt Nam
-- Điện thoại: 0913352001
-- Email: mbo.tuvanquanly.gmail.com
-- Website: mbovietnam.com
-Công ty MBO rất mong muốn và vinh dự được hợp tác với bạn. Xin cảm ơn!
+MBO Vietnam sẽ tiếp tục duy trì các chương trình đào tạo như thế này trong tương lai, nhằm hỗ trợ các doanh nghiệp phát triển bền vững, đồng thời khẳng định vị thế là đơn vị hàng đầu trong lĩnh vực đào tạo doanh nghiệp.
+4. Prompt huấn luyện AI mẫu
+“Viết bài giới thiệu về một chương trình đào tạo cho doanh nghiệp, theo phong cách giống bài viết về đào tạo doanh nghiệp sản xuất alumin tại Lâm Đồng của MBO Vietnam. Giữ giọng văn trung lập, bố cục rõ ràng (mở bài – nội dung – kết luận), nhấn mạnh tính chuyên môn và cam kết phát triển bền vững. Bao gồm tên đối tác, địa điểm, thời gian, mục tiêu và kết quả đạt được.”
