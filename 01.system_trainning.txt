@@ -1,49 +1,668 @@
-1. Thông tin nền (Nhập thông tin thực tế)
-🔹 Tên chương trình đào tạo: ......................................................
-🔹 Thời gian tổ chức: ...................................................................
-🔹 Địa điểm tổ chức: ....................................................................
-🔹 Đơn vị tổ chức/đối tác: .............................................................
-🔹 Số lượng học viên: ....................................................................
-🔹 Mục tiêu đào tạo: ......................................................................
-🔹 Nội dung chính: ........................................................................
-🔹 Phản hồi từ học viên (nếu có): ...................................................
-🔹 Loại bài viết (Báo cáo hoạt động / Giới thiệu chương trình / Thông báo nội bộ...): .....................................
-🔹 Đối tượng hướng tới (Doanh nghiệp / Đối tác / Công chúng...): ...................................
-🔹 Mục tiêu truyền thông (Uy tín / Báo cáo kết quả / Thu hút học viên...): ..................................
-🔹 Cảm xúc muốn truyền tải (Chuyên nghiệp / Tin cậy / Truyền cảm hứng / Khẳng định vị thế...): ..................................
-2. Cấu trúc bài viết chuẩn
-✦ A. MỞ BÀI
-1. Câu dẫn tình huống: Thời gian, địa điểm, lý do tổ chức.
-2. Đơn vị phối hợp, đối tượng tham gia.
-Gợi ý câu mẫu: 
-- “Tiếp nối chuỗi chương trình đào tạo chuyên sâu dành cho doanh nghiệp,...”
-- “Với mục tiêu nâng cao nhận thức và năng lực thực hành,...”
-✦ B. NỘI DUNG CHÍNH
-1. Phân tích chi tiết nội dung học (mỗi buổi học là một đoạn mô tả).
-2. Phương pháp giảng dạy: thảo luận, thực hành, xử lý tình huống...
-3. Học viên phản hồi và đánh giá sau khóa học.
-Gợi ý câu mẫu: 
-- “Khóa học bao gồm các chuyên đề như... Phương pháp giảng dạy là kết hợp thực tiễn và lý thuyết...”
-- “Học viên đánh giá cao sự kết hợp giữa lý thuyết và thực hành, mang lại giá trị thiết thực...”
-✦ C. KẾT LUẬN
-1. Thành quả đạt được & giá trị thực tiễn của khóa học.
-2. Cảm ơn đối tác và giảng viên đã cùng MBO Vietnam tổ chức chương trình.
-3. Cam kết và triển khai tiếp theo.
-Gợi ý câu mẫu: 
-- “Khóa học đã giúp học viên nắm vững kiến thức về [chuyên môn], đồng thời nâng cao nhận thức về bảo vệ môi trường.”
-- “MBO Vietnam cam kết sẽ tiếp tục tổ chức các khóa đào tạo chuyên sâu trong tương lai…”
-3. Ví dụ bài viết mẫu đầy đủ (500 từ)
-Ví dụ sau là bài viết mẫu chuẩn MBO Vietnam, bạn có thể tham khảo cách viết và cấu trúc bài.
+Bạn là một trợ lý ảo thông minh,và bạn sẽ đóng vai trò là một chuyên gia về truyền thông đào tạo doanh nghiệp  luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao.
 
-Ngày 25-26 tháng 8 năm 2022, tại tỉnh Lâm Đồng, Công ty TNHH MTV Nhôm Lâm Đồng - TKV phối hợp cùng MBO Vietnam tổ chức khóa đào tạo chuyên sâu về quản lý bảo vệ môi trường cho các doanh nghiệp sản xuất alumin.
-Khóa học thu hút sự tham gia của hơn 50 học viên là các lãnh đạo và cán bộ quản lý từ các công ty sản xuất alumin trong cả nước.
+Bạn đọc những thông bên dưới để trả lời các câu hỏi của tôi : 
+PHÂN TÍCH THỰC TRẠNG ĐÁNH GIÁ HIỆU QUẢ LÀM VIỆC
+TẠI CÔNG TY THAN MẠO KHÊ - TKV
+2.1. Giới thiệu về Công ty Than Mạo Khê - TKV
+2.1.1. Lịch sử hình thành và phát triển:  
+Tên gọi đầy đủ của doanh nghiệp: Chi nhánh tập đoàn công nghiệp than khoáng sản Việt Nam - Công ty than Mạo Khê -TKV.
+Tên rút gọn: Công ty than Mạo khê - TKV
+	Hình thức pháp lý: Là đơn vị thành viên phụ thuộc của Tập đoàn Công nghiệp Than - Khoáng sản Việt nam hoạt động theo luật doanh nghiệp.	Địa chỉ: Khu Dân Chủ - Phường  Mạo Khê - Thị Xã Đông Triều - Tỉnh Quảng Ninh.	
+	Điện thoại : 0203.3871240. Fax : 0203.3871375
+Khu mỏ Mạo Khê nằm ở cực Tây đới chứa  than  bối  tà Tràng Bạch thuộc bể  than Quảng Yên. Khu mỏ có toạ độ:
+106033’15” ÷ 106041’ 45”  Kinh độ Đông.
+21002’ 15”  ÷  21006’ 33”  Vĩ độ Bắc.
+ Diện tích khu mỏ trải dài trên các xã Kim Sơn, Tràng Lương, Bình Khê, Yên Thọ và Phường Mạo Khê - Thị Xã  Đông Triều - tỉnh Quảng Ninh. Diện tích mỏ khoảng 20 km2.
+Địa hình mỏ Mạo Khê là khu vực đồi núi thấp dần về phía Nam và bị bào mòn kéo dài từ Đông sang Tây với độ cao trung bình từ  +15 ÷ +505 m.
+Trong địa bàn mỏ Mạo Khê có hai con suối chính đó là suối Văn Lôi và suối Bình Minh. Các vỉa than cánh Bắc nằm trên sườn núi cao, các vỉa than cánh Nam nằm mặt địa hình khá bằng phẳng.
+	Trước tháng 8 năm 1945 gọi là Mỏ Mạo Khê. Sau ngày hòa bình lập lại được gọi là mỏ than Mạo Khê. Ngày 16 tháng 10 năm 2001 được đổi thành Công ty than Mạo Khê. Công ty than Mạo Khê có lịch sử khai thác trên 170 năm.  So với các mỏ than hầm lò hiện nay, mỏ Mạo Khê có trữ lượng và quy mô khai thác lớn. Toàn Công ty là dây chuyền sản xuất hoàn chỉnh từ khâu khai thác, vận tải, sàng tuyển, chế biến sản phẩm.
+Sau khi hiệp định Giơ-ne-vơ được ký kết giữa Chính phủ ta và Chính phủ Pháp tháng 9 năm 1954, Cục khai khoáng đã giao nhiệm vụ cho một số cán bộ về khôi phục mỏ Mạo Khê. Để đảm bảo kế hoạch của bộ giao cùng với việc bòn vét than mỏ đã nghiên cứu đào các đường lò mở vỉa và mở các lò chợ khai thác. Tháng 2 năm 1955 mỏ bắt tay vào khôi phục tuyến đường sắt từ mỏ ra cảng Bến Cân đây là tuyến vận chuyển quan trọng nhất của mỏ để vận chuyển than đi tiêu thụ. 
+Từ năm 1958- 1960 mỏ Mạo khê bắt đầu xây dựng cơ sở vật chất kỹ thuật thực hiện cải tạo, xây dựng xã hội chủ nghĩa. Trong thời gian này Nhà nước đã tập trung nguồn vốn lớn cho mỏ Mạo khê làm nhiệm vụ kiến thiết cơ bản; năm 1959 là  718.257 đồng, gấp đôi số vốn đầu tư năm 1958 và gần 100 công trình lớn nhỏ. Năm 1960 đã tăng lên 2.145.990 đồng trong đó các công trình phục vụ sản xuất là 1.840.171 đồng còn lại là các công trình phục vụ đời sống cán bộ, công nhân. Cùng với sự đầu tư và phát triển mỏ là số lượng công nhân ngày càng tăng năm 1958 tổng số cán bộ công nhân là 1.000 người; năm 1959 là 2.326 người; đến năm 1960 là 3.568 người.
+Tháng 8 năm 1965 Hội đồng Chính phủ quyết định thành lập Tổng Công ty than Quảng Ninh,  Mỏ than Mạo khê tách khỏi Công ty than Hòn Gai trở thành đơn vị hạch toán riêng biệt trực thuộc Tổng Công ty Than Quảng Ninh. Để giải quyết đúng đắn giữa nhiệm kỳ trước mắt cũng như lâu dài từ năm 1965 đến năm 1968 mỏ tích cực đi vào cải tạo và đẩy mạnh tốc độ đào lò xây dựng cơ bản chuẩn bị cho kế hoạch lâu dài. 
+Từ năm 1976 Thực hiện kế hoạch đã đề ra, mỏ tiếp tục cải tạo mở rộng khai thác khu cánh Đông 58 và tận dụng tài nguyên các khu vực khác. Năm 1979 mỏ đã tiếp nhận bàn giao khu vực sản xuất mới. Từ năm 1981 đến năm 1985 hàng loạt các công trình được tiếp tục xây dựng và cải tạo hoàn chỉnh các dây chuyền sản xuất ở các khâu khai thác, hệ thống băng tải tiêu thụ theo tuyến đường sắt Quốc gia, các kho, bến bãi. 
+Từ năm 1985 tài nguyên khai thác của mỏ từ mức + 30 trở lên lộ vỉa ngày càng cạn kiệt. Những vỉa than tốt, gần dễ khai thác đã hết, chỉ còn lại vỉa dốc, vỉa than kém phẩm chất,sản xuất than trong tình trạng bòn vét tận thu tài nguyên.
+Từ năm 2000 đến nay với mục tiêu: Hoàn thành các chỉ tiêu sản xuất kinh doanh đảm bảo nguồn vốn. Chuẩn bị nguồn nhân lực đảm bảo yêu cầu nhiệm vụ. Từng bước áp dụng tiến bộ kỹ thuật mới vào sản xuất, mở rộng đầu tư phát triển, cải thiện điều kiện làm việc, tăng cường công tác an toàn, bảo hộ lao động, bảo vệ môi trường, ổn định việc làm, tăng thu nhập, nâng cao dần đời sống công nhân viên chức, giữ vững an ninh chính trị, trật tự an toàn xã hội.
+Chức năng, nhiệm vụ và ngành nghề kinh doanh của Công ty:
+-	Khai thác, chế biến và tiêu thụ than, xây dựng công trình mỏ
+-	Sản xuất kinh doanh vật liệu xây dựng, vận tải đường bộ, đường sắt
+-	Sửa chữa thiết bị mỏ, phương tiện vận tải, chế tạo xích vòng và cơ khí
+-	Tổ chức hoạt động vui chơi giải trí, Đại lý xăng dầu
+-	Sản xuất kinh doanh nước uống tinh khiết
+-	Khai thác, sử dụng và kinh doanh nước sinh hoạt
+-	Thiết kế, thi công xây lắp các công trình công nghiệp, giao thông, dân dụng và giám sát thi công xây dựng các công trình dân dụng công nghiệp
+-	Chế tạo thiết bị mỏ và phương tiện vận tải
+-	Cho thuê lưu trú nhà khách Công ty
+-	Cung cấp dịch vụ ăn uống theo hợp đồng không thường xuyên
+-	Bán lẻ dầu và ga nhiên liệu, vệ sinh nhà cửa và các công trình khác
+Trữ lượng than:
+Theo kết quả tổng hợp tài liệu, tính lại trữ lượng và chuyển đổi cấp tài nguyên trữ lượng đã được Hội đồng đánh giá trữ lượng khoáng sản phê duyệt theo quyết định số 113/QĐ-HĐTLKS/CĐ ngày 14/10/2010 thì tài nguyên trữ lượng của Công ty như sau:
+- Mức -150 lên lộ vỉa: Đã cấp phép khai thác: 30.600.000 tấn và chưa cấp phép: 56.106.590 tấn.
+- Mức -150 -:- -400: Trữ lượng địa chất 114.952.124 tấn, đã đưa vào huy động thiết kế 74.905.000 tấn với trữ lượng công nghiệp là 53.243.000 tấn. 
+Công nghệ sản xuất
+Công nghệ đào lò: Công nghệ thi công các đường lò được thực hiện bằng công nghệ khoan nổ mìn, xúc bốc bằng máy lên goòng 3 tấn, vận chuyển bằng tàu điện kết hợp goòng 3 tấn (lò bằng), bằng tời trục kết hợp goòng 3 tấn (lò nghiêng). Tùy thuộc vào điều kiện địa chất việc chống giữ các đường lò được sử dụng bằng thép, bê tông.
+Tại các đường lò sử dụng vì chống thép làm kết cấu chống cố định, chống tạm bằng các xà của vì chống cố định, chèn nóc vì chống tạm (chèn gỗ) để làm sàn bảo hiểm cho công nhân xúc bốc đất đá, than ở gương lò. Công tác chống cố định tiến hành sau khi hoàn tất công tác xúc bốc.
+Các đường lò chống cố định bằng bê tông cốt thép, bê tông lưu vì thi công đường lò theo sơ đồ nối tiếp toàn phần hoặc từng phần, chống tạm bằng vì chống thép. 
+Để đáp ứng yêu cầu sản xuất hàng năm, với mục tiêu tăng tiến độ đào lò, tăng năng suất lao động, giảm giá thành và cải thiện điều kiện làm việc cho người lao động, Công ty Than Mạo Khê chủ động đầu tư, mua sắm các máy móc, thiết bị cơ giới phục vụ đào lò phù hợp với từng điều kiện cụ thể, các thiết bị hiện có như sau: 
+Thiết bị khoan: Sử dụng máy khoan khí nén YT-27, YT-30, máy khoan khí nén ZQST.
+Thiết bị xúc: Sử dụng máy xúc XĐ-0.32, máy xúc ZCY-46, ZCY-60, máy xúc mini ML-01-03.
+Thiết bị vận tải: Với các đường lò bằng sử dụng tàu điện 8 tấn kết hợp với goòng 3 tấn, bằng băng tải, với các đường lò trung gian dùng máng cào, máng trượt hoặc cầu truyền tải.
+Dựa trên các thiết bị hiện có, tiết diện các đường lò thiết bị thi công được lựa chọn phù hợp với điều kiện thực tế của mỏ, cụ thể như sau:
+- Đối với gương lò bằng trong đá có tiết diện 9,4 m2 đến 13,0 m2 dùng tổ hợp thiết bị đào lò gồm: 2÷4 máy khoan khí nén có đặc tính kỹ thuật tương đương loại có mã hiệu YT - 27 (hoặc YT - 30), 01 búa chèn tương đương loại G.10, 01 máy xúc XĐ-0,32, 1÷2 quạt gió cục bộ tương đương loại YBT-62-2, 01 máy nổ mìn tương đương loại MFB -100.
+- Đối với gương lò bằng trong đá có tiết diện đào 13,0 m2 đến 20,0 m2 dùng tổ hợp thiết bị đào lò gồm: 2÷4 máy khoan khí nén có đặc tính kỹ thuật tương đương loại có mã hiệu YT - 27 (hoặc YT - 30), 01 búa chèn tương đương loại G.10, 01 máy xúc ZCY-60 hoặc ZCY-45, 1÷2 quạt gió cục bộ tương đương loại YBT-62-2, 01 máy nổ mìn tương đương loại MFB -100.
+- Đối với gương lò bằng trong than có tiết diện đào 8,4 m2 đến 10,9 m2 dùng tổ hợp thiết bị đào lò gồm: 1÷2 máy khoan khí nén có đặc tính kỹ thuật tương đương loại có mã hiệu MQS-3.5/2.0, máy xúc mini ML-01-03, 1÷2 máng cào tương đương loại SKAT-80, 1÷2 quạt gió cục bộ tương đương loại YBT-62-2, 01 máy nổ mìn tương đương loại MFB -100. 
+Công nghệ khai thác than: Trong quá trình khai thác theo điều kiện địa chất vỉa, Công ty than Mạo Khê đã áp dụng chủ yếu một số các hệ thống khai thác và công nghệ chống giữ lò chợ như sau: 
+Hệ thống khai thác lò chợ dây diều, chia cột dài theo phương hạ trần thu hồi than nóc (với các vỉa dày có thu hồi) công nghệ chống giữ lò chợ chống giá khung, khấu than bằng khoan nổ mìn, điều khiển đá vách bằng phá hỏa toàn phần.
+Hệ thống khai thác chia lớp ngang nghiêng, công nghệ chống giữ lò chợ bằng giá thủy lực di động XDY  (áp dụng cho vỉa dày dốc > 45 độ).
+Hệ thống khai thác lò dọc vỉa than phân tầng (áp dụng cho vỉa mỏng đến dày trung bình, góc dốc > 45 độ).
+Công nghệ sàng tuyển, chế biến than: Sản lượng than nguyên khai của Công ty than Mạo Khê - TKV đã đạt 1,94 triệu tấn năm 2019, trong đó chủ yếu là than nguyên khai khai thác hầm lò (chiếm khoảng 90%), còn lại than nguyên khai từ khai thác lộ thiên. Năm 2022 sản lượng than nguyên khai t     hác 2,080 triệu tấn là năm đầu  tiên đạt công suất mỏ trên 2 triệu tấn than nguyên khai. Các năm tiếp theo tăng dần lên, duy trì ở mức còn lại duy trì ở mức 2,0 triệu tấn/năm và đạt công suất ở mức tối đa là 2,50 triệu tấn/năm.
+Hiện nay, công nghệ sàng tuyển, chế biến than của Công ty than Mạo Khê được thực hiện thông qua các dây chuyền sàng phân loại than nguyên khai và các dây chuyền tuyển nước để nâng cao chất lượng than nhằm sản xuất ra các loại than thành phẩm phục vụ nhu cầu thị trường. Các công nghệ các dây chuyền cụ thể như sau:
+* Các dây chuyền sàng phân loại và tách than cám khô 
+Cụm sàng khô số 1: Nhà sàng chính với công nghệ chỉ có sàng khô tách cám và phân loại cấp hạt lớn. Cụm sàng khô số 2 và số 3: Chủ yếu để sàng chế biến than lộ vỉa và các phân xưởng hầm lò vận chuyển bằng ô tô về. 
+Các dây chuyền sàng này chủ yếu để sàng phân loại và tách cám than nguyên khai bằng sàng lỗ lưới 15mm và 120mm để lấy ra 3 sản phẩm: (i) Than cám -15mm được pha trộn tiêu thụ cho nhiệt; (ii) Than cấp hạt (15-120)mm được cấp vào cụm tuyển huyền phù tự sinh và tuyển băng tải; (iii) Than cấp hạt lớn +120mm được nhặt tay thủ công trên băng tải thu hồi than cục xô và loại bỏ đá thải.
+* Các dây chuyền tuyển
+Hiện nay, Công ty có 04 dây chuyền tuyển như sau: (i) Dây chuyền tuyển bằng công nghệ huyền phù tự sinh; (ii) Dây chuyền tuyển bằng băng tải ngược; (iii) Dây chuyền tuyển máy lắng; (iv)  Dây chuyền tuyển khí. Trong đó: 
+- Dây chuyền tuyển bằng công nghệ huyền phù tự sinh: Mục đích dùng để tuyển than cấp hạt (15-40)mm thành than sạch và đá thải. 
++ Khâu sàng than don xô trước khi đưa vào máy tuyển
+Than don xô cấp hạt (15-120) mm từ cụm sàng khô được vận chuyển vào sàng phân loại 2 lưới 15&40mm để tách ra các cấp hạt: (1) Than cám khô -15mm được đưa về kho chứa than cám khô thành phẩm; (2) Than cấp hạt (15-40)mm được vận chuyển lên máy tuyển huyền phù tự sinh; (3) Than cấp hạt (40-120)mm được vận chuyển lên tuyển ướt bằng băng tải của Công ty (Dây chuyền tuyển ngược Công ty thuê ngoài).
+Đánh giá các tồn tại dây chuyền công nghệ sàng tuyển, chế biến than
+- Khâu sàng tách cám khô: (i) Các cụm sàng nằm rải rác trên các khu vực của mặt bằng, thiết bị đã cũ kỹ, lạc hậu, hết khấu hao; (ii) Các thiết bị sàng đang sử dụng là sàng phẳng, lưới đặt nghiêng có năng suất thấp, hiệu suất thấp, tiêu hao điện năng lớn.
+- Khâu tuyển than: Dây chuyền tuyển than của mỏ Mạo Khê tồn tại nhiều loại thiết bị tuyển như: máy tuyển huyền phù tự sinh, máy tuyển khí, băng tải tuyển nước, tuyển máy lắng thuê ngoài ... Các thiết bị đầu tư đã cũ kỹ, lạc hậu, đã hết khấu hao dẫn đến chi phí bảo dưỡng, sửa chữa thường lớn, chi phí sản xuất cao.
+- Khâu bùn nước: Sử dụng số lượng thiết bị nhiều, dây chuyền phức tạp; Phải sử dụng các hố lắng tự nhiên nên chiếm diện tích lớn trên mặt bằng, quá trình xử lý bùn than bằng các hố lắng tự nhiên thường rất mất thời gian và chi phí lớn, ảnh hưởng đến môi trường.
+- Hệ thống điều khiển: Hệ thống điều khiển đã đầu tư từ lâu, lạc hậu và cũng đã hết khấu hao; Hệ thống điều khiển được bố trí theo từng cụm, phân tán nên sự kết nối giữa các cụm còn hạn chế. 
 
-MBO Vietnam đã áp dụng phương pháp giảng dạy kết hợp giữa lý thuyết và thực tiễn, thông qua các buổi thảo luận nhóm và xử lý tình huống thực tế. Các học viên được trang bị kiến thức vững chắc về các chính sách pháp luật hiện hành liên quan đến bảo vệ môi trường, cũng như các biện pháp hiệu quả để giảm thiểu tác động xấu đến môi trường trong quá trình sản xuất.
 
-Đặc biệt, các học viên đánh giá cao sự gần gũi, dễ hiểu của các giảng viên và khả năng ứng dụng ngay những kiến thức đã học vào công việc thực tế của mình.
 
-Khóa học đã giúp nâng cao năng lực cho các doanh nghiệp tham gia, giúp họ chủ động hơn trong việc thực hiện các biện pháp bảo vệ môi trường, đồng thời cam kết tuân thủ các quy định của pháp luật về môi trường.
 
-MBO Vietnam sẽ tiếp tục duy trì các chương trình đào tạo như thế này trong tương lai, nhằm hỗ trợ các doanh nghiệp phát triển bền vững, đồng thời khẳng định vị thế là đơn vị hàng đầu trong lĩnh vực đào tạo doanh nghiệp.
-4. Prompt huấn luyện AI mẫu
-“Viết bài giới thiệu về một chương trình đào tạo cho doanh nghiệp, theo phong cách giống bài viết về đào tạo doanh nghiệp sản xuất alumin tại Lâm Đồng của MBO Vietnam. Giữ giọng văn trung lập, bố cục rõ ràng (mở bài – nội dung – kết luận), nhấn mạnh tính chuyên môn và cam kết phát triển bền vững. Bao gồm tên đối tác, địa điểm, thời gian, mục tiêu và kết quả đạt được.”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+2.1.2. Cơ cấu tổ chức và đặc điểm nhân sự:  
+Bộ máy tổ chức sản xuất Công ty: Ban Giám đốc (06 người); Cơ quan Đảng ủy (04 người); Công đoàn (04 người), Đoàn Thanh Niên (01 người), Các phòng, Ban, Trạm (16 đơn vị); Các phân xưởng sản xuất (22 phân xưởng)
+Chế độ làm việc: Thực hiện theo Nội quy lao động, thỏa ước lao động tập thể của Tập đoàn TKVban hành kèm theo Quyết định số: 568/QĐ-TKV, ngày 05/4/2018 của Tổng Giám đốc Tập đoàn Công nghiệp Than-Khoáng sản Việt Nam.
+	Sơ đồ tổ chức bộ máy
+	Với trên 60 năm hình thành và phát triển, quy mô bộ máy của công ty được hoàn thiện, phù hợp với nhu cầu quản lý sản xuất nhưng vẫn đảm bảo sự tinh gọn, hiệu quả và tiết kiệm chi phí. Cơ cấu bộ máy của công ty được thể hiện qua sơ đồ như  
+
+- Chức năng nhiệm vụ bộ máy quản lý:
+* Phòng KCM: Có chức năng kiểm tra quản lý kỹ thuật khai thác trên cơ sở các quy chuẩn, quy trình, quy phạm của nhà nước, của ngành và của cấp trên. Đánh giá điều kiện địa chất công trình, địa chất thủy văn ảnh hưởng đến việc khai thác trên cơ sở đó lập các hệ thống mở vỉa, áp dụng công nghệ khai thác nhằm nâng cao sản lượng, đảm bảo an toàn trong sản xuất. Quản lý công tác thông gió, kiểm soát khí, bụi và thoát nước mỏ để thực hiện sản xuất an toàn.
+* Phòng Trắc địa- địa chất: Tham mưu cho giám đốc trong công tác địa chất dự báo địa chất công trình, thủy văn, trữ lượng công nghiệp của mỏ để thiết kế khai thác. Tổ chức dẫn hướng chỉ đạo thi công các công trình hầm lò và mặt bằng của Công ty.
+* Phòng Kỹ thuật Cơ điện: Có chức năng tham mưu cho giám đốc trong việc tổ chức, quản lý kiểm tra công tác kỹ thuật cơ điện, cơ khí và các thiết bị máy móc để thực hiện nhiệm vụ sản xuất của Công ty.
+* Phòng điều khiển sản xuất: Là phòng kỹ thuật có chức năng tham mưu cho giám đốc trong việc điều hành sản xuất theo kế hoạch và các biện pháp kỹ thuật, kiểm tra đôn đốc các đơn vị thực hiện chức năng nhiệm vụ được giao. cập nhật kết quả sản xuất trong ca, ngày của các đơn vị trong Công ty để báo cáo giám đốc.
+* Phòng An toàn – Bảo hộ lao động: Là phòng kỹ thuật có chức năng tham mưu cho giám đốc trong việc tổ chức quản lý, kiểm tra việc thực hiện kỹ thuật cơ bản, an toàn và bảo hộ lao động đồng thời giám sát an toàn các vị trí sản xuất của Công ty.
+* Phòng ĐTM: Tham mưu cho giám đốc về công tác xây dựng cơ bản gồm: Đầu tư xây dựng mới, đầu tư duy trì sản xuất, Sửa chữa nâng cấp các công trình hiện có, đề xuất các biện pháp quản lý. Thẩm định thiết kế, dự toán công trình, tổ chức nghiệm thu, hoan chỉnh hồ sơ các cong trình hoàn thành và các vấn đề liên quan đến xây dựng khác. Tham mưu giúp việc giám đốc thực hiện tổ chức quản lý môi trường trong sản xuất của Công ty.
+* Phòng kế hoạch và quản lý giá thành: Là phòng nghiệp vụ có chức năng tham mưu cho giám đốc trong việc lập kế hoạch ngắn hạn, dài hạn tổ chức giao kế hoạch và quản lý giá thành của Công ty. Quản lý theo dõi việc thực hiện kế hoạch và các hợp đồng kinh tế.
+* Phòng Tổ chức nhân sự: Là phòng tham mưu cho giám đốc trong lĩnh vực tổ chức sản xuất, quản lý nguồn nhân lực, công tác tuyển dụng, đào tạo. Xây dựng định mức lao động, tiền lương, giải quyết chế độ chính sách đối với người lao động. Quản lý, chăm sóc sức khỏe cho người lao động.   
+* Phòng Thống kê - Kế toán - Tài chính: Tham mưu cho giám đốc Công ty trong việc điều hành thực hiện công tác thống kê, kế toán, tài chính. Thu thập sử lý thông tin, số liệu kế toán theo đối tượng và nội dung công việc kế toán theo chuẩn mực chế độ kế toán của Nhà nước cũng như của Tập đoàn Công nghiệp Than – Khoáng sản Việt Nam. Kiểm tra, giám sát các khoản thu, chi tài chính, các nghĩa vụ thu nộp, kiểm tra việc quản lý, sử dụng tài sản và nguồn hình thành tài sản đảm bảo sử dụng một cách hợp lý, tiết kiệm, đúng mục đích, đạt hiệu quả kinh tế cao. Phân tích thông tin, số liệu kế toán, tham mưu đề xuất phục vụ yêu cầu quản trị và quyết định kinh tế tài chính của ban lãnh đạo Công ty. Lập báo cáo gửi các cơ quan chức năng theo quy định.
+* Phòng Vật tư: Quản lý cung ứng vật tư, nguyên vật liệu phục vụ sản xuất kinh doanh. Dự trữ, bảo quản vật tư, nhập xuất kho theo quy định của Công ty.
+* Phòng KCS - tiêu thụ: Tiêu chuẩn hóa đo lường, kiểm tra chất lượng sản phẩm than, các dung dịch sút cho ắc quy tầu điện, đèn ắc quy mỏ, nước công nghiệp và các loại hóa chất khác. Quản lý công nghệ sàng tuyển, thực hiện các biện pháp để quản lý chất lượng than trong khai thác sàng tuyển, chế biến, pha trộn nhằm đáp ứng chất lượng than và đảm bảo yêu cầu tiêu thụ của thị trường.
+* Phòng Bảo vệ quân sự thanh tra: Tham mưu cho Giám đốc trong việc tổ chức thực hiện công tác bảo vệ tài nguyên, tài sản, an ninh trật tự trong ranh giới, địa bàn Công ty quản lý. Công tác phòng chống cháy nổ, quân sự địa phương và công tác thanh tra, pháp chế của Công ty.
+	*  Văn phòng Công ty: Tham mưu cho giám đốc Công ty trong công tác hành chính, quản trị - văn phòng. Tổ chức quản lý, tham mưu công tác chuyên môn về lĩnh vực thi đua, tuyên truyền, văn hoá văn nghệ, thể thao, truyền thống Công ty, quản lý khai thác công trình văn hoá, khu vui chơi giải trí của Công ty. Việc tổ chức, quản lý, triển khai thực hiện nhiệm vụ thuộc lĩnh vực công nghệ thông tin phục vụ sản xuất của Công ty.
+	* Ban quản lý dự án giếng đứng Mạo khê: Tham mưu cho Giám đốc quản lý dự án khai thác hầm lò dưới mức -150 – mỏ Mạo Khê.
+Cơ cấu lao động:
+ Tổng số lao động: 3810 người; lao động không xác định thời hạn 3613 người; lao động mùa vụ ( HSTT): 197 người.
+- Lao động gián tiếp: 384 người
+- Lao động trực tiếp: 3229 người (Thợ lò: 1434 người, Cơ điện: 737 người; Phục vụ phụ trợ: 765 người; Lao động khác:0 người)
+Nhận xét: Theo mô hình mẫu của TKV như sau:
+Số lượng phòng ban: 15 phòng, 01 trạm y tế.
+Số lượng công trường phân xưởng: 30 công trường, phân xưởng, trong đó:
+Phân xưởng sản xuất chính: 21 phân xưởng.
++ 07 phân xưởng đào lò
++ 12 Phân xưởng khai thác
++ 01 Phân xưởng sàng tuyển.
++ 01 Phân xưởng lộ thiên.
+Phân xưởng sản xuất phụ trợ: 5 phân xưởng
++ 02 Phân xưởng vận tải
++ 01 Phân xưởng thông gió thoát nước mỏ.
++ 01 Phân xưởng trạm mạng
++ 01 Phân xưởng cơ điện sửa chữa
+Phân xưởng phục vụ: 3 Phân xưởng
++ Phân xưởng vận tải ô tô vận chuyển than, đất đá.
++ 01 Phân xưởng phục vụ tắm giặt, đèn lò
++ 01 Phân xưởng cơ khí xây - xây dựng phục vụ chung
+Phân xưởng kinh doanh khác: 01 Phân xưởng.
++ Phân xưởng phục vụ đời sống.
+Như vậy đối với khối phòng ban của Công ty hiện nay là phù hợp với mô hình mẫu TKV. Phân xưởng sản xuất chính của Công ty là 16/21 (giảm 4 phân xưởng đào lò và 1 phân xưởng khai thác). Phân xưởng sản xuất phụ trợ là 3/3 phù hợp với mô hình mẫu TKV. Phân xưởng phục vụ 1/3 ( giảm 01 phân xưởng tắm, giặt, đèn lò và 01 Phân xưởng xây dựng phục vụ chung). Phân xưởng kinh doanh khác 1/1 phù hợp với mô hình mẫu TKV. Qua số liệu này có thể thấy rằng sơ đồ tổ chức sản xuất của Công ty hiện nay đã tái cơ cấu đáp ứng theo yêu cầu của TKV, bộ máy đã được tinh gọn và đang thực hiện tương đối tốt. Tuy nhiên lao động phục vụ, phụ trợ chiếm tỷ lệ còn cao so với lao động chính.
+2.4.4. Nguồn nhân lực
+Nhân lực là một thành phần không thể thiếu trong bất cứ một đơn vị doanh nghiệp nào. Không một đơn vị nào có thể tồn tại nếu không có nguồn nhân lực đáp ứng được sự hoạt động và vận hành của bộ máy Công ty. Chính vì thế, mỗi đơn vị doanh nghiệp cần có những giải pháp tốt nhất trong việc quản trị nhân lực. Nguồn nhân lực của Công ty hiện tại như sau:
+- Trình độ chuyên môn
++ Trên Đại học: 37 người
++ Đại học: 808 người
++ Cao đẳng: 238 người
++ Trung cấp: 808 người; 
++ CNKT: 1848 người,
++ Chưa qua đào tạo: 71 người
+- Tuổi nghề, tuổi đời:  Bình quân 38,2 tuổi
+Nhận xét: Ở thời điểm hiện tại có thể đánh giá nguồn nhân lực của Công ty cơ bản đáp ứng được yêu cầu sản xuất. Tuy nhiên trong thời gian tới cần phải tiếp tục đào tạo lại và đào tạo bổ sung một số lĩnh vực như: Tự động hóa, địa chất mỏ, quản trị nhân lực ... để đáp ứng yêu cầu sản xuất trong những năm tiếp theo. Ngoài ra cần quan tâm đặc biệt đến công tác kèm cặp nâng bậc, nâng cao tay nghề cho công nhân kỹ thuật.
+2.2. Mô tả hệ thống đánh giá hiệu quả làm việc hiện tại
+2.2.1. Quy trình đánh giá:  
+Tại Công ty Than Mạo Khê - TKV, một doanh nghiệp hoạt động trong lĩnh vực khai thác than với cơ cấu tổ chức phức tạp, hệ thống đánh giá hiệu quả làm việc được xây dựng dựa trên công cụ KPI (Key Performance Indicators) nhằm đo lường hiệu suất của nhân viên và các bộ phận. Giám đốc Công ty ban hành văn bản số 4570/QĐ-TMK-TCNS ngày 22 tháng 11 năm 2024 ban hành quy định Xây dựng mục tiêu công việc và đánh giá kết quả thực hiện KPIs. Quy trình đánh giá được triển khai một cách có hệ thống, đảm bảo tính minh bạch và phù hợp với đặc thù ngành công nghiệp này. Đầu tiên, công ty tiến hành xác định các chỉ số KPI cho từng vị trí, phòng ban và phân xưởng. Những chỉ số này được thiết kế để phản ánh mục tiêu chiến lược của tổ chức, đồng thời gắn liền với chức năng và nhiệm vụ cụ thể của từng đối tượng tham gia. Sau khi xác định KPI, công ty thiết lập các mục tiêu cụ thể theo nguyên tắc SMART, tức là phải rõ ràng, đo lường được, khả thi, phù hợp và có thời hạn. Quá trình này đảm bảo rằng mọi nhân viên và bộ phận đều hiểu rõ kỳ vọng công việc của mình trong từng giai đoạn.
+Hàng tháng, nhân viên và các phòng ban, phân xưởng đăng ký công việc dựa trên chức năng, nhiệm vụ và kế hoạch sản xuất mà công ty giao xuống. Việc đăng ký này không chỉ giúp định hướng hoạt động mà còn tạo cơ sở để theo dõi tiến độ thực hiện trong thời gian thực. Sau đó, quy trình đánh giá được thực hiện định kỳ vào cuối mỗi tháng. Cụ thể, nhân viên được đánh giá bởi phó phòng hoặc phó quản đốc, trong khi phó trưởng phòng chịu sự giám sát và đánh giá từ trưởng phòng hoặc quản đốc. Ở cấp cao hơn, giám đốc trực tiếp đánh giá các trưởng phòng, quản đốc các phân xưởng và các phó giám đốc. Điểm đặc biệt trong cơ cấu quản lý của Công ty Than Mạo Khê - TKV là sự tham gia của nhiều phó giám đốc, mỗi người đảm nhận kiểm soát các phòng ban theo chức trách nhiệm vụ được phân công. Một phòng có thể đảm nhiệm nhiều chức năng, dẫn đến việc nhiều phó giám đốc cùng tham gia quản lý, hỗ trợ giám đốc trong việc giám sát hiệu quả hoạt động. Ngay cả giám đốc cũng đóng vai trò trực tiếp trong việc quản lý các phòng, thể hiện tính tập trung và đa tầng trong hệ thống đánh giá.
+Tần suất đánh giá hàng tháng là một đặc điểm nổi bật tại Công ty Than Mạo Khê - TKV, khác với nhiều tổ chức thường chọn chu kỳ hàng quý hoặc hàng năm. Việc thực hiện đánh giá mỗi tháng cho phép công ty theo dõi sát sao hiệu suất làm việc, kịp thời phát hiện các vấn đề và hỗ trợ nhân viên cải thiện. Theo Noe et al. (2019), “việc đánh giá định kỳ giúp nhân viên nhận thức được điểm mạnh và điểm yếu của mình, từ đó nâng cao hiệu suất công việc” (Noe et al., 2019, tr. 345). Tần suất này đặc biệt phù hợp với ngành khai thác than, nơi mà tiến độ sản xuất và an toàn lao động cần được kiểm soát chặt chẽ. Kết quả đánh giá mỗi tháng được lưu trữ cẩn thận và sử dụng để tính toán mức độ hoàn thành công việc trung bình, từ đó xếp loại hiệu suất cho cả năm. Cách tiếp cận này không chỉ giúp công ty có cái nhìn tổng quan về năng lực nhân sự mà còn hỗ trợ việc lập kế hoạch dài hạn.
+Về đối tượng tham gia, hệ thống đánh giá bao gồm nhiều cấp bậc quản lý và nhân viên, nhưng không áp dụng cho công nhân tại các phân xưởng. Nhân viên ở các phòng ban được phó phòng hoặc phó quản đốc đánh giá, trong khi phó trưởng phòng chịu sự đánh giá từ trưởng phòng hoặc quản đốc. Trưởng phòng và quản đốc các phân xưởng được giám đốc xem xét hiệu suất, đồng thời giám đốc cũng đánh giá các phó giám đốc – những người hỗ trợ giám đốc trong việc kiểm soát hoạt động của các phòng ban. Sự tham gia của giám đốc vào quản lý trực tiếp các phòng nhấn mạnh vai trò lãnh đạo trung tâm trong cơ cấu tổ chức. Tuy nhiên, công nhân tại các phân xưởng không nằm trong quy trình đánh giá KPI. Thay vào đó, thu nhập của họ được tính dựa trên ngày công và sản lượng than khai thác, phản ánh đặc trưng của ngành công nghiệp này, nơi hiệu quả lao động có thể được đo lường trực tiếp qua sản phẩm vật chất.
+Hệ thống đánh giá tại Công ty Than Mạo Khê - TKV, với các bước thực hiện rõ ràng, tần suất hàng tháng và sự tham gia của nhiều cấp quản lý, cho thấy một cách tiếp cận khoa học và thực tiễn trong quản lý nhân sự. Armstrong (2018) từng khẳng định rằng “KPI là công cụ quan trọng để đo lường và quản lý hiệu suất trong các tổ chức” (Armstrong, 2018, tr. 412), và điều này được minh chứng qua việc áp dụng tại công ty. Bằng cách duy trì quy trình đánh giá định kỳ và lưu trữ dữ liệu để phân tích dài hạn, công ty không chỉ đảm bảo hiệu quả sản xuất mà còn tạo nền tảng cho sự phát triển bền vững trong bối cảnh ngành khai thác than đầy thách thức.
+2.2.2. Tiêu chí đánh giá:  
+ 	Trong bối cảnh cạnh tranh khốc liệt hiện nay, việc đánh giá hiệu quả làm việc của nhân viên đóng vai trò then chốt trong việc nâng cao năng suất và đạt được mục tiêu chiến lược của tổ chức. Để đảm bảo tính khách quan, minh bạch và hiệu quả trong quá trình này, việc áp dụng các tiêu chí cụ thể theo nguyên tắc SMART (Specific, Measurable, Achievable, Relevant, Time-bound) là một giải pháp tối ưu. Nguyên tắc này yêu cầu các tiêu chí phải rõ ràng, có thể đo lường, khả thi, gắn liền với mục tiêu chung và có thời hạn cụ thể. Khi áp dụng vào các tiêu chí như năng suất lao động, chất lượng công việc, an toàn lao động, kỷ luật, văn hóa doanh nghiệp, nội quy lao động và các mục tiêu kế hoạch công tác theo năm, SMART giúp tổ chức xây dựng hệ thống đánh giá hiệu quả, phù hợp với chức năng của từng phòng ban và cá nhân.
+Nguyên tắc SMART mang lại sự rõ ràng trong việc xác định kỳ vọng đối với nhân viên. Chẳng hạn, với tiêu chí năng suất lao động, một nhân viên ở phân xưởng sản xuất có thể được giao nhiệm vụ hoàn thành một số lượng sản phẩm đạt chuẩn nhất định trong mỗi ca làm việc, với mục tiêu tăng 10% so với tháng trước. Mức độ hoàn thành được theo dõi qua báo cáo sản xuất, đảm bảo khả thi khi máy móc hoạt động ổn định, phù hợp với định hướng tăng trưởng của công ty và hoàn thành vào cuối mỗi tháng. Tương tự, tiêu chí chất lượng công việc có thể được định lượng qua tỷ lệ sản phẩm lỗi, đặt mục tiêu giảm xuống dưới 2%, thực hiện được nhờ đào tạo kỹ năng, liên quan đến cam kết chất lượng của tổ chức và có thời hạn là cuối mỗi quý. An toàn lao động, đặc biệt quan trọng với phòng An toàn Bảo hộ lao động, có thể được đánh giá bằng số vụ tai nạn lao động, hướng tới mục tiêu không xảy ra sự cố, đo lường qua báo cáo an toàn, đạt được nhờ tuân thủ quy trình cùng đào tạo thường xuyên, phù hợp với chính sách an toàn và duy trì liên tục.
+Kỷ luật và tuân thủ nội quy lao động là một khía cạnh thiết yếu khác, có thể được đánh giá thông qua số lần vi phạm quy định, với mục tiêu không để xảy ra vi phạm nào, đo lường qua hồ sơ nhân sự, khả thi nhờ nâng cao nhận thức, gắn với văn hóa tổ chức và kiểm tra hàng tháng. Văn hóa doanh nghiệp lại được thể hiện qua mức độ tham gia các hoạt động tập thể, đặt mục tiêu đạt ít nhất 80% sự kiện, theo dõi qua danh sách tham dự, thực hiện được nhờ chính sách khuyến khích, liên quan đến việc xây dựng tinh thần đồng đội và hoàn thành vào cuối năm. Đối với các mục tiêu kế hoạch công tác theo năm, chúng cần được chia nhỏ thành các nhiệm vụ tháng cho từng phòng ban và cá nhân. Ví dụ, phòng Kế hoạch Quản trị chi phí có thể đặt mục tiêu giảm 5% chi phí sản xuất trong năm, với các bước cụ thể như tối ưu hóa quy trình, đo lường qua báo cáo tài chính, khả thi nhờ phân tích kỹ lưỡng, phù hợp với mục tiêu lợi nhuận và hoàn thành vào cuối mỗi tháng.
+Mỗi phòng ban trong tổ chức, từ khối Kỹ thuật công nghệ, An toàn Bảo hộ lao động, Điều khiển sản xuất, KCS, Kế hoạch Quản trị chi phí, Tổ chức Nhân sự, Đầu tư Môi trường…, đến các phân xưởng sản xuất và phụ trợ, đều cần bảng KPI riêng, phản ánh đặc thù chức năng. Chẳng hạn, nhân viên khối Kỹ thuật công nghệ có thể được đánh giá qua số lượng cải tiến kỹ thuật áp dụng thành công, với mục tiêu ít nhất hai cải tiến mỗi quý, đo lường bằng báo cáo dự án, khả thi nhờ nghiên cứu và thử nghiệm, liên quan đến định hướng đổi mới công nghệ và hoàn thành vào cuối quý. Trong khi đó, nhân viên phòng Tổ chức Nhân sự có thể hướng tới nâng cao tỷ lệ hài lòng của nhân viên lên 90%, đo lường qua khảo sát nội bộ, thực hiện được nhờ các chương trình phúc lợi, phù hợp với mục tiêu giữ chân nhân tài và hoàn thành vào cuối năm. Tính linh hoạt của SMART cho phép điều chỉnh các tiêu chí phù hợp với từng vai trò, đảm bảo hiệu quả đánh giá tối ưu.
+Việc áp dụng các tiêu chí theo nguyên tắc SMART không chỉ mang lại công cụ đo lường chính xác hiệu suất mà còn thúc đẩy động lực làm việc của nhân viên thông qua các mục tiêu rõ ràng. Điều này góp phần nâng cao năng suất, cải thiện chất lượng công việc và tăng cường sự gắn kết với tổ chức, từ đó hỗ trợ sự phát triển bền vững của doanh nghiệp. Như George T. Doran đã chỉ ra trong bài viết “There’s a S.M.A.R.T. way to write management’s goals and objectives” (1981), SMART là một phương pháp hiệu quả để thiết lập mục tiêu, và ứng dụng nó vào quản lý nhân sự là bước đi chiến lược nhằm tối ưu hóa hiệu quả tổ chức. Việc triển khai đồng bộ các tiêu chí này sẽ tạo nền tảng vững chắc cho sự thành công lâu dài.
+2.2.3. Phương pháp đánh giá:  
+Công ty Than Mạo Khê - TKV hiện đang triển khai một hệ thống đánh giá hiệu quả nguồn nhân lực dựa trên thang điểm 1-2-3-4, nhằm đo lường mức độ hoàn thành công việc của nhân viên theo các mức cụ thể. Theo đó, điểm số từ >3 đến 4 được xếp hạng xuất sắc, từ >2,6 đến 3 là đạt yêu cầu, từ 1,8 đến 2,6 thuộc nhóm cần cố gắng, và dưới 1,8 bị xem là không đạt. Phương pháp này mang tính định lượng cao, cho phép công ty xây dựng một cơ chế đánh giá có tính hệ thống và khách quan. Việc áp dụng thang điểm như vậy không chỉ đơn giản hóa việc đo lường mà còn tạo điều kiện để so sánh hiệu suất giữa các cá nhân và bộ phận trong tổ chức. Theo Armstrong (2018), “sử dụng thang điểm trong quản lý hiệu suất giúp thiết lập một tiêu chuẩn thống nhất, hỗ trợ việc đánh giá công bằng và minh bạch” (Armstrong, 2018, tr. 412). Điều này đặc biệt phù hợp với một doanh nghiệp hoạt động trong lĩnh vực khai thác than như Công ty Than Mạo Khê, nơi yêu cầu sự nhất quán và rõ ràng trong quản lý nhân sự là yếu tố sống còn.
+Hệ thống đánh giá của công ty còn tích hợp cơ chế trọng số cho từng tiêu chí, với mức trọng số dao động từ 1 đến 4 tùy thuộc vào tầm quan trọng và tính cấp bách của mỗi tiêu chí. Những tiêu chí có mức độ ưu tiên cao, chẳng hạn như an toàn lao động trong ngành than, thường được gán trọng số tối đa là 4, trong khi các tiêu chí ít quan trọng hơn nhận trọng số thấp hơn. Quy định này đảm bảo rằng các mục tiêu chiến lược của tổ chức được phản ánh rõ nét trong quá trình đánh giá. Chẳng hạn, một tiêu chí liên quan đến việc tuân thủ quy trình an toàn có thể mang trọng số cao hơn so với các nhiệm vụ hành chính thông thường. Cách tiếp cận này đồng nhất với quan điểm của Dessler (2020), khi ông cho rằng “việc áp dụng trọng số cho các tiêu chí đánh giá giúp tổ chức định hướng nguồn lực vào những ưu tiên cốt lõi, từ đó tối ưu hóa hiệu quả quản trị” (Dessler, 2020, tr. 290). Tại Công ty Than Mạo Khê, cơ chế trọng số không chỉ tăng cường sự tập trung vào các yếu tố then chốt mà còn tạo động lực cho nhân viên hoàn thành tốt những nhiệm vụ quan trọng.
+Để đảm bảo tính cân bằng và tránh sự phức tạp hóa, công ty giới hạn số lượng tiêu chí trong mỗi bảng giao việc ở mức tối đa 6, đồng thời yêu cầu tỷ lệ trọng số 1-2-3-4 phải được phân bổ đồng đều. Quy định này giúp đơn giản hóa quy trình đánh giá, tránh tình trạng quá tải thông tin, và cho phép cả quản lý lẫn nhân viên tập trung vào những khía cạnh thiết yếu. Việc giới hạn tiêu chí còn giúp nâng cao chất lượng phản hồi, bởi lẽ các nhà quản lý có thể đi sâu phân tích từng khía cạnh thay vì phân tán sự chú ý vào quá nhiều yếu tố. Thực tế, cách làm này đã được chứng minh là hiệu quả trong việc cải thiện hiệu suất tại các tổ chức lớn, đặc biệt trong những ngành có yêu cầu kỹ thuật cao như khai thác than.
+Dẫu vậy, hệ thống đánh giá dựa trên thang điểm và trọng số vẫn tồn tại một số hạn chế, nổi bật là nguy cơ chủ quan trong việc xác định trọng số hoặc đánh giá mức độ hoàn thành công việc. Trong bối cảnh ngành than, nơi các chỉ số như sản lượng và an toàn có thể đo lường chính xác, hệ thống này vẫn phát huy tốt vai trò của mình. Tuy nhiên, để tăng tính toàn diện, công ty có thể xem xét bổ sung các phương pháp định tính như phản hồi đa chiều từ đồng nghiệp hoặc tự đánh giá, nhằm cung cấp góc nhìn sâu sắc hơn về hiệu quả làm việc của nhân viên. Nhìn chung, phương pháp hiện tại vẫn là một công cụ hữu hiệu để định hướng và nâng cao chất lượng nguồn nhân lực tại Công ty Than Mạo Khê - TKV.
+2.3. Phân tích thực trạng đánh giá hiệu quả làm việc
+2.3.1. Phân tích dữ liệu thứ cấp:  
+Tìm hiểu và làm rõ hiệu suất làm việc của nhân viên tại Công Ty Than Mạo Khê - TKV từ năm 2019 đến 2023 dựa trên các dữ liệu thứ cấp. Mục tiêu là xác định xu hướng hiệu suất lao động thông qua các chỉ số chính: sản lượng khai thác, biện pháp an toàn lao động và văn hóa công nhận nhân viên. Phương pháp phân tích tập trung vào việc sử dụng dữ liệu có sẵn để đưa ra kết luận khoa học, hạn chế phụ thuộc vào dữ liệu nội bộ không công khai.
+Phân tích sản lượng khai thác
+Sản lượng khai thác là chỉ số quan trọng phản ánh hiệu quả hoạt động và năng suất lao động. Dựa trên các nguồn tin tức và báo cáo, Công Ty Than Mạo Khê đã duy trì sản lượng ổn định trong giai đoạn 2019-2023, với xu hướng tăng nhẹ vào năm 2023.
+●	Năm 2019, TKV giao Công Ty Than Mạo Khê kế hoạch khai thác 1,9 triệu tấn than nguyên khai, tăng gần 200.000 tấn so với năm 2018 
+●	Năm 2022, sản lượng than nguyên khai đạt 2,08 triệu tấn, đánh dấu lần đầu tiên công ty vượt mốc 2 triệu tấn/năm 
+●	Năm 2023, sản lượng tăng lên 2,3 triệu tấn, cho thấy sự cải thiện đáng kể 
+Dữ liệu cho thấy sản lượng năm 2020 và 2021 dao động quanh mức 2 triệu tấn, dựa trên xu hướng ổn định và không có biến động lớn được báo cáo. Sự ổn định này phản ánh khả năng quản lý hiệu quả và sự cống hiến của đội ngũ lao động, đặc biệt trong bối cảnh ngành than đối mặt với nhiều thách thức như điều kiện địa chất phức tạp và nhu cầu thị trường biến động.
+Năm	Sản lượng (triệu tấn)	Ghi chú
+2019	1,9	
+2020	2,0	
+2021	2,0	
+2022	2,08	
+2023	2,3	
+(Nguồn: Công ty Than Mạo Khê - TKV)
+Phân tích biện pháp an toàn lao động
+An toàn lao động là yếu tố then chốt trong ngành khai thác than, đặc biệt với điều kiện hầm lò nguy hiểm. Công Ty Than Mạo Khê đã triển khai hệ thống giám sát khí metan hiện đại, hoạt động liên tục để giảm thiểu nguy cơ tai nạn.
+●	Từ năm 2019 đến 2023 Công ty rất nỗ lực trong đảm bảo an toàn cho người lao động, cho thấy hiệu quả của các biện pháp an toàn. Công ty được ghi nhận với danh hiệu: "Than Mạo Khê - Doanh nghiệp tiêu biểu vì người lao động", nhấn mạnh công ty duy trì môi trường làm việc an toàn trong 3 năm liên tiếp (2021-2023).
+●	Hệ thống giám sát khí metan, báo từ năm 2014, tiếp tục được nâng cấp, góp phần giảm thiểu rủi ro, đặc biệt là nổ khí metan. Các chương trình đào tạo an toàn định kỳ cũng được triển khai, đảm bảo tuân thủ nghiêm ngặt các quy định.
+Sự chú trọng vào an toàn lao động không chỉ bảo vệ tính mạng người lao động mà còn hỗ trợ duy trì hiệu suất sản xuất ổn định.
+Phân tích văn hóa công nhận nhân viên
+Văn hóa công nhận nhân viên đóng vai trò quan trọng trong việc thúc đẩy động lực và hiệu suất làm việc. Công Ty Than Mạo Khê đã tổ chức nhiều chương trình vinh danh, đặc biệt trong năm 2023.
+●	Năm 2023, công ty vinh danh 461 cá nhân đạt danh hiệu "Sao Mỏ Mạo Khê", dành cho những người có thâm niên công tác từ 21-25 năm và có nhiều sáng kiến trong sản xuất. Chương trình này là một phần của nỗ lực rộng lớn hơn, với các giải thưởng như "Thợ mỏ sáng tạo" được tổ chức thường xuyên.
+●	Các chương trình khen thưởng, với tổng kinh phí hơn 40 tỷ đồng từ năm 2022 đến 9 tháng năm 2023, không chỉ nâng cao tinh thần mà còn khuyến khích sáng kiến, cải tiến kỹ thuật, góp phần tăng năng suất lao động.
+Sự công nhận này tạo ra môi trường làm việc tích cực, thúc đẩy sự gắn kết và động lực, từ đó hỗ trợ duy trì hiệu suất cao.
+Kết luận và ý nghĩa
+Phân tích dữ liệu thứ cấp cho thấy hiệu suất làm việc tại Công Ty Than Mạo Khê - TKV từ 2019 đến 2023 là ổn định và tích cực. Sản lượng khai thác duy trì ở mức cao, tăng từ 1,9 triệu tấn năm 2019 lên 2,3 triệu tấn năm 2023, phản ánh năng lực quản lý và lao động hiệu quả. Các biện pháp an toàn lao động, với hệ thống giám sát hiện đại và không có tai nạn nghiêm trọng, đảm bảo môi trường làm việc an toàn. Các chương trình vinh danh nhân viên, đặc biệt năm 2023, đã tạo động lực mạnh mẽ, góp phần nâng cao hiệu suất và sự gắn kết.
+2.3.2. Phân tích dữ liệu sơ cấp:  
+Để thực hiện đánh giá hiện trạng và xu hướng hiệu quả nhân viên tại Công ty Than Mạo Khê - TKV (2019-2023) nhiệm vụ đặt ra là cần khảo sát, phỏng vấn nhân viên cùng quản lý tại Công ty Than Mạo Khê - TKV, giai đoạn 2019-2023 để tổng hợp được các dữ liệu sơ cấp từ khảo sát và phỏng vấn. Phân tích tập trung vào ba khía cạnh chính: mức độ hài lòng với hệ thống đánh giá hiệu quả, nhận thức về tính công bằng và minh bạch, cùng các vấn đề phổ biến như thiếu phản hồi và tiêu chí không phù hợp. 
+Phương pháp nghiên cứu
+Dữ liệu được thu thập thông qua khảo sát có cấu trúc và phỏng vấn chuyên sâu với 248 cán bộ, nhân viên đại diện cho các cấp quản lý là trưởng, phó phòng và nhân viên các phòng ban khác nhau trong công ty. Các câu hỏi tập trung vào mức độ hài lòng, nhận thức về tính công bằng/minh bạch và những khó khăn thường gặp trong hệ thống đánh giá. Phương pháp này đảm bảo thu thập được thông tin đa chiều và đáng tin cậy.
+Kết quả và thảo luận về mức độ hài lòng với hệ thống đánh giá hiện tại của Công ty Than Mạo Khê - TKV như sau:
+Kết quả cho thấy mức độ hài lòng với hệ thống đánh giá ở mức trung bình. Khoảng trên 85% nhân viên bày tỏ sự hài lòng, đánh giá cao việc truyền đạt rõ ràng các tiêu chí công việc. Tuy nhiên, hơn 10% còn lại cho rằng hệ thống chưa phản ánh đúng năng lực thực tế, đặc biệt trong bối cảnh thay đổi vận hành sau đại dịch. Đồng thời, khoảng trên 90% quản lý đánh giá tích cực, có thể do họ tham gia trực tiếp vào quá trình xây dựng và áp dụng hệ thống. Sự khác biệt này phản ánh khoảng cách trong trải nghiệm giữa hai nhóm.
+Nhận thức về tính công bằng và minh bạch
+Về tính công bằng và minh bạch, dữ liệu ghi nhận sự phân hóa rõ rệt. Trong khi có trên 80% quản lý nhận định hệ thống minh bạch và công bằng, cũng có đến trên 80% nhân viên đồng tình. Không có nhiều nhân viên bày tỏ lo ngại về việc thiếu thông tin rõ ràng liên quan đến cách kết quả đánh giá ảnh hưởng đến thăng tiến và lương thưởng. Điều này cho thấy môi trường vận hành tính minh bạch trong quy trình và tiêu chí đánh giá có được niềm tin từ phía nhân viên.
+Hai vấn đề chính được ghi nhận là các thông tin phản hồi và tiêu chí đánh giá khá sát và phù hợp. Có tới 85% nhân viên cho biết họ nhận được phản hồi mang tính xây dựng sau đánh giá, điều này mở rộng khả năng cải thiện hiệu suất. Đồng thời, 85% nhận định các tiêu chí đánh giá phù hợp với nhiệm vụ thực tế, đặc biệt khi công ty điều chỉnh hoạt động trong giai đoạn đại dịch. Chẳng hạn, các chỉ số truyền thống về sản lượng khai thác phản ánh đầy đủ nỗ lực trong việc thích nghi với điều kiện mới.
+Kết luận:
+Hệ thống đánh giá hiệu quả tại Công ty Than Mạo Khê - TKV nhận được phản hồi tích cực ở nhiều khía cạnh, mặc dù vẫn tồn tại những hạn chế cần khắc phục. Việc tăng cường cung cấp phản hồi chi tiết và điều chỉnh tiêu chí đánh giá phù hợp với bối cảnh thực tế sẽ tiếp tục cải thiện mức độ hài lòng cũng như cảm nhận về tính công bằng. Hơn nữa, việc duy trì đối thoại giữa quản lý và nhân viên, kết hợp với cập nhật định kỳ hệ thống đánh giá, sẽ giúp nâng cao hiệu quả quản trị nhân sự, góp phần duy trì năng suất và tinh thần làm việc trong ngành khai thác than đầy thách thức.
+2.4. Đánh giá ưu điểm và nhược điểm của hệ thống hiện tại
+2.4.1. Ưu điểm:  
+- Quy trình đánh giá hiệu quả làm việc hiện tại rất rõ ràng bằng việc ban hành văn bản của Công ty về thực hiện công tác khoán quản trị chi phí cũng như ban hành quy định vận hành KPI tại Công ty Than Mạo Khê - TKV
+- Các tiêu chí đánh giá có tính SMART cao rõ ràng, định lượng bằng các chỉ tiêu cụ thể như sản lượng khai thác, chi phí tiêu hao vật tư nguyên nhiên vật liệu, số vụ mất an toàn, số lần chưa đáp ứng yêu cầu, tiêu chuẩn kỹ thuật…
+- Tỷ lệ nhận thức của cán bộ, nhân viên tham gia vận hành công cụ đánh giá rất rõ ràng để vận hành đúng yêu cầu.
+- Ban Lãnh đạo Công ty quán triệt và thống nhất duy trì văn hoá đánh giá hiệu quả công việc một cách công khai, minh bạch, hiệu quả.
+2.4.2. Nhược điểm:  
+- Hệ thống tiêu chí đánh giá theo kế hoạch điều hành, mệnh lệnh chỉ đạo và chức năng, chức trách, nhiệm vụ của các cá nhân, phòng ban, bộ phận chưa được thiết kế đồng nhất cao, nhiều bộ phận còn chung chung, chưa cụ thể.
+- Chưa hiện đại, còn vận hành nhập dữ liệu thủ công trên hệ thống Microsoft excel, in và ký giấy là phổ biến.
+- Các hệ thống dữ liệu phục vụ đánh giá chưa có sự liên kết kịp thời giữa các phòng ban đơn vị.
+- Các dữ liệu đánh giá chưa được thực hiện công khai trên một hệ thống trực tuyến online chủ yếu vẫn ở trạng thái rời rạc.
+- Vẫn còn một số ít bộ phận và cá nhân chưa thực hiện đồng đều, nghiêm túc và khách quan các quy định về đánh giá hiệu quả làm việc nhất là ở những bộ phận thực hiện các nghiệp vụ chuyên môn thuộc khối phòng ban, lao động gián tiếp, quản lý tại các phân xưởng nơi có những sản phẩm công việc thiếu tính đo lường cao như số lượng sản phẩm, giá trị hiện vật tạo ra có thể đo đếm rõ ràng, minh bạch.
+2.5. So sánh với các doanh nghiệp cùng ngành
+2.5.1. Hệ thống đánh giá tại các công ty than khác:  
+- Công ty Than Mạo Khê - TKV là một trong những đơn vị tiên phong và bài bản nhất trong TKV: Công ty đã triển khai hệ thống KPI từ năm 2018 và không ngừng hoàn thiện, góp phần nâng cao hiệu quả quản lý và sản xuất kinh doanh. Điều này giúp đơn vị nổi bật so với các doanh nghiệp khác trong Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV), vốn thường triển khai KPI ở mức cơ bản hoặc chưa đồng bộ.
+- Mức độ minh bạch và công khai cao: Công ty Than Mạo Khê công bố kết quả đánh giá KPI trên các kênh thông tin nội bộ, tổ chức họp đánh giá định kỳ với sự tham gia của người lao động. Ngược lại, nhiều đơn vị trong TKV chưa đạt được tính minh bạch tương tự, cho thấy sự khác biệt rõ rệt trong cách áp dụng công cụ này.
+- Hạn chế so với các doanh nghiệp khai thác than quốc tế hiện đại: Khi so sánh với các công ty hàng đầu như BHP Billiton hay Rio Tinto, Công ty Than Mạo Khê còn phụ thuộc vào phương pháp thủ công, thiếu hệ thống đo lường tự động và minh bạch. Chẳng hạn, BHP Billiton tích hợp KPI với hệ thống ERP và IoT để thu thập dữ liệu thời gian thực (BHP, 2020), trong khi Rio Tinto áp dụng công nghệ phân tích dữ liệu lớn trong chương trình "Mine of the Future" (Rio Tinto, 2018).
+- Để nâng cấp và hoàn thiện hệ thống đánh giá của mình như các công ty quốc tế, Công ty Than Mạo Khê cần đầu tư vào công nghệ thông tin, ứng dụng phần mềm quản trị hiệu suất và thiết bị đo lường thông minh, nhằm nâng cao tính chính xác và hiệu quả của KPI.
+2.5.2. Bài học kinh nghiệm:  Những điểm mạnh có thể áp dụng để cải thiện tại Công ty Than Mạo Khê - TKV
+- Tiếp tục đầu tư nâng cấp hạ tầng công nghệ thông tin nói chung và hệ thống vận hành công cụ KPI theo hướng số hoá nói riêng.
+- Hoàn thiện bộ công cụ đánh giá theo hướng liên kết các tiêu chí và chi tiết khối lượng thực hiện.
+- Xây dựng hệ thống dữ liệu liên kết và cập nhật theo thời gian thực để làm cơ sở so sánh, đối chiếu và làm căn cứ đánh giá kết quả làm việc của các cá nhân và bộ phận.
+- Tiếp tục nâng cao kỹ năng vận hành công cụ đánh giá hiệu quả làm việc đồng thời nâng cao kỹ năng làm việc với các ứng dụng và công nghệ số để thực hiện được công cụ đánh giá hiệu quả trên nền tảng số có tính tự động, cập nhật nhanh hơn.
+- Xây dựng văn hoá tuân thủ và văn hoá đo lường trong doanh nghiệp để góp phần tạo nề nếp trong văn hoá doanh nghiệp và hiệu quả trong quản trị, điều hành.
+
+ 
+Chương 3
+MỘT SỐ GIẢI PHÁP HOÀN THIỆN CÔNG TÁC ĐÁNH GIÁ HIỆU QUẢ 
+LÀM VIỆC CỦA NHÂN VIÊN TẠI CÔNG TY THAN MẠO KHÊ - TKV
+3.1. Cơ sở đề xuất giải pháp
+3.1.1. Tổng hợp các hạn chế hiện nay tại Công ty Than Mạo Khê – TKV trong công tác đánh giá hiệu quả làm việc của nhân viên:  
+- Hệ thống tiêu chí đánh giá thiếu sự đồng nhất và cụ thể hóa:  
+  Trong thực tế, các tiêu chí đánh giá hiệu quả làm việc chưa được xây dựng với mức độ đồng nhất cao giữa các bộ phận trong doanh nghiệp. Chúng thường mang tính chất chung chung, không được cụ thể hóa để phản ánh đầy đủ kế hoạch điều hành, mệnh lệnh chỉ đạo cũng như chức năng, nhiệm vụ của từng cá nhân, phòng ban hay đơn vị. Điều này khiến việc đánh giá không thể đo lường chính xác mức độ hoàn thành công việc, gây khó khăn trong việc xác định hiệu suất thực tế.
+- Quy trình đánh giá thiếu tính hiện đại và tự động hóa:  
+  Hiện nay, nhiều doanh nghiệp vẫn duy trì phương pháp nhập dữ liệu thủ công trên Microsoft Excel, kết hợp với việc in ấn và ký duyệt trên giấy tờ. Cách thức vận hành này không chỉ lạc hậu so với xu hướng công nghệ mà còn tiêu tốn nhiều thời gian, dễ xảy ra sai sót trong quá trình xử lý dữ liệu. Việc thiếu ứng dụng công nghệ hiện đại làm giảm hiệu quả và độ tin cậy của kết quả đánh giá.
+- Sự liên kết dữ liệu giữa các đơn vị chưa được đảm bảo:  
+  Các hệ thống dữ liệu phục vụ cho việc đánh giá hiệu quả nhân viên chưa được tích hợp chặt chẽ giữa các phòng ban và đơn vị trong doanh nghiệp. Sự thiếu liên kết này dẫn đến tình trạng thông tin không được cập nhật kịp thời, gây chậm trễ trong việc tổng hợp và phân tích dữ liệu. Hệ quả là tính chính xác và tính thời sự của kết quả đánh giá bị ảnh hưởng nghiêm trọng.
+- Dữ liệu đánh giá thiếu tính công khai và khả năng tiếp cận trực tuyến:  
+  Hiện tại, thông tin đánh giá hiệu quả làm việc chủ yếu tồn tại dưới dạng rời rạc, chưa được số hóa và công khai trên một nền tảng trực tuyến thống nhất. Điều này làm giảm tính minh bạch trong quá trình đánh giá, đồng thời hạn chế khả năng truy cập của các bên liên quan, từ đó ảnh hưởng đến việc giám sát và cải thiện hiệu suất.
+- Tính nghiêm túc và đồng đều trong thực hiện đánh giá chưa cao:  
+  Một số cá nhân và bộ phận chưa tuân thủ nghiêm túc các quy định về đánh giá hiệu quả công việc, đặc biệt tại các khối phòng ban chuyên môn, lao động gián tiếp hoặc quản lý tại phân xưởng. Ở những khu vực này, sản phẩm công việc thường thiếu các chỉ số đo lường cụ thể như số lượng sản phẩm hay giá trị hiện vật rõ ràng. Sự thiếu khách quan và không đồng đều trong thực hiện đánh giá càng làm gia tăng khoảng cách giữa kết quả đánh giá và thực tế hiệu suất.
+Những vấn đề nêu trên phản ánh thực trạng còn nhiều hạn chế trong công tác đánh giá hiệu quả nhân viên tại doanh nghiệp. Để cải thiện, cần hướng tới việc chuẩn hóa tiêu chí, ứng dụng công nghệ hiện đại, tăng cường liên kết dữ liệu, đảm bảo tính minh bạch và nâng cao ý thức trách nhiệm trong quá trình thực hiện.
+3.1.2. Mục tiêu của các giải pháp:  
+Trong bối cảnh Công ty Than Mạo Khê - TKV đang đối mặt với những hạn chế trong hệ thống đánh giá hiệu quả nhân viên, việc triển khai các giải pháp cụ thể nhằm cải thiện tính minh bạch, công bằng và hiệu quả là một yêu cầu cấp thiết. Mục tiêu chung của các giải pháp này hướng đến việc xây dựng một hệ thống đánh giá toàn diện, dựa trên cơ sở khoa học, ứng dụng công nghệ hiện đại và đảm bảo sự đồng thuận giữa các bên liên quan. Qua đó, công ty không chỉ khắc phục được các tồn tại hiện hữu mà còn nâng cao hiệu suất lao động, hỗ trợ thực hiện các mục tiêu chiến lược dài hạn.
+Hệ thống đánh giá hiện tại của công ty tồn tại nhiều vấn đề, bao gồm sự thiếu nhất quán trong tiêu chí giữa các bộ phận, quy trình thủ công lạc hậu, dữ liệu phân tán, và tính minh bạch chưa cao. Để giải quyết, mục tiêu đầu tiên là thiết lập một bộ tiêu chí đánh giá đồng bộ, rõ ràng và đo lường được. Các tiêu chí cần được xây dựng dựa trên việc phân tích chi tiết nhiệm vụ của từng vị trí, từ lao động trực tiếp tại mỏ, lao động gián tiếp trong khâu hỗ trợ, đến quản lý tại các phân xưởng. Ví dụ, một tiêu chí cụ thể có thể là "đạt 95% khối lượng than khai thác đúng tiêu chuẩn kỹ thuật trong quý", thay vì các mô tả chung chung như "hoàn thành tốt công việc". Tiêu chí này cần gắn kết với kế hoạch sản xuất và chỉ đạo của công ty, như tăng trưởng sản lượng 10%, để đảm bảo phản ánh đúng đóng góp của từng cá nhân. Quá trình xây dựng tiêu chí đòi hỏi sự tham gia của lãnh đạo và nhân viên thông qua các buổi thảo luận, nhằm đảm bảo tính thực tiễn và sự đồng thuận.
+Song song với đó, việc hiện đại hóa quy trình đánh giá thông qua tự động hóa là một mục tiêu quan trọng. Hiện nay, việc sử dụng Excel và giấy tờ thủ công không chỉ tốn thời gian mà còn dễ xảy ra sai sót, làm giảm độ tin cậy của kết quả. Công ty cần đầu tư vào phần mềm quản lý hiệu suất, hỗ trợ từ nhập liệu, tính toán điểm số, đến xuất báo cáo tự động. Phần mềm này nên tích hợp các chức năng như theo dõi tiến độ, thu thập ý kiến phản hồi, và bảo mật thông tin qua phân quyền truy cập. Để triển khai hiệu quả, các khóa đào tạo kỹ năng sử dụng công nghệ cho nhân viên và quản lý là cần thiết, giúp họ làm chủ quy trình đánh giá trên nền tảng số, giảm thiểu lỗi và tiết kiệm tài nguyên.
+Mục tiêu tiếp theo là tăng cường sự liên kết dữ liệu giữa các đơn vị trong công ty. Sự thiếu đồng bộ giữa các phòng ban hiện nay khiến thông tin đánh giá không kịp thời và thiếu chính xác. Một cơ sở dữ liệu tập trung cần được thiết lập, kết nối với hệ thống nhân sự và sản xuất để cập nhật tự động. Công nghệ đám mây có thể được áp dụng nhằm đảm bảo truy cập từ xa và đồng bộ hóa nhanh chóng, đặc biệt tại các khu vực phân xưởng xa. Quy định cập nhật dữ liệu định kỳ, cùng với nhóm chuyên trách kiểm soát chất lượng thông tin, sẽ giúp duy trì tính chính xác và toàn vẹn của hệ thống.
+Tính minh bạch và khả năng tiếp cận dữ liệu cũng là trọng tâm của các giải pháp. Việc số hóa toàn bộ hồ sơ đánh giá và công khai trên cổng thông tin nội bộ sẽ cho phép nhân viên theo dõi kết quả cá nhân, quản lý giám sát bộ phận, và lãnh đạo phân tích tổng thể. Hệ thống cần phân quyền rõ ràng và tạo kênh phản hồi để nhân viên đóng góp ý kiến, từ đó nâng cao niềm tin và sự tham gia vào quá trình cải tiến. Cuối cùng, để đảm bảo tính nghiêm túc và đồng đều, công ty cần giám sát chặt chẽ việc thực hiện đánh giá, áp dụng chế tài với các trường hợp không tuân thủ, và tổ chức tập huấn nhằm nâng cao nhận thức về tầm quan trọng của hệ thống.
+Tóm lại, các giải pháp này hướng đến việc xây dựng một hệ thống đánh giá hiệu quả nhân viên tại Công ty Than Mạo Khê - TKV khoa học, minh bạch và phù hợp với thực tiễn, góp phần nâng cao hiệu suất làm việc và hỗ trợ mục tiêu phát triển bền vững của doanh nghiệp.
+3.2. Đề xuất các giải pháp cụ thể
+3.2.1. Xây dựng hệ thống tiêu chí đánh giá đồng nhất và cụ thể hóa
+- Vấn đề: Hệ thống tiêu chí đánh giá hiện tại thiếu sự đồng nhất giữa các bộ phận và chưa được cụ thể hóa để phản ánh kế hoạch điều hành, mệnh lệnh chỉ đạo, cũng như chức năng, nhiệm vụ của từng cá nhân, phòng ban hay đơn vị. Điều này dẫn đến khó khăn trong việc đo lường chính xác hiệu suất, gây ra sự không rõ ràng trong kết quả đánh giá.
+- Giải pháp:
+  + Xác định mục tiêu và nhiệm vụ cụ thể: Công ty cần tiến hành rà soát toàn diện các vị trí công việc để xác định mục tiêu và nhiệm vụ cụ thể. Việc này bao gồm lập danh mục công việc chính và xây dựng các chỉ số hiệu suất (KPIs) phù hợp với từng vai trò, đảm bảo phản ánh đúng yêu cầu thực tế.
+  + Phân loại tiêu chí theo nhóm lao động: Tiêu chí đánh giá cần được chia thành các nhóm như lao động trực tiếp (sản xuất than), lao động gián tiếp (hỗ trợ kỹ thuật) và quản lý (điều hành phân xưởng). Mỗi nhóm sẽ có bộ tiêu chí riêng, được thiết kế để phù hợp với đặc thù công việc, tránh áp dụng chung chung.
+  + Cụ thể hóa từng tiêu chí: Các tiêu chí cần được mô tả chi tiết, định lượng rõ ràng để có thể đo lường. Chẳng hạn, thay vì tiêu chí mơ hồ như "làm việc hiệu quả", có thể thay bằng "đảm bảo 90% sản lượng than khai thác đạt yêu cầu kỹ thuật trong tháng".
+  + Liên kết với kế hoạch điều hành: Tiêu chí đánh giá phải được gắn kết chặt chẽ với các mục tiêu trong kế hoạch điều hành và mệnh lệnh chỉ đạo của công ty. Ví dụ, nếu kế hoạch đề ra tăng sản lượng 10%, tiêu chí đánh giá cần phản ánh mức độ đóng góp của từng cá nhân vào mục tiêu này.
+  - Thu thập ý kiến đa chiều: Tổ chức các cuộc họp với đại diện lãnh đạo, nhân viên các bộ phận để lấy ý kiến, đảm bảo tiêu chí đánh giá vừa thực tế, vừa nhận được sự đồng thuận, từ đó tăng tính khả thi khi áp dụng.
+3.2.2. Áp dụng quy trình đánh giá hiện đại và tự động hóa
+- Vấn đề: Quy trình đánh giá hiện tại chủ yếu dựa vào nhập liệu thủ công trên Microsoft Excel và giấy tờ, gây tốn thời gian, dễ sai sót và không theo kịp xu hướng công nghệ hiện đại, làm giảm độ tin cậy của kết quả.
+- Giải pháp:
+  + Đầu tư hệ thống phần mềm chuyên dụng: Công ty cần triển khai phần mềm quản lý hiệu suất để tự động hóa quy trình đánh giá. Phần mềm này cần hỗ trợ từ khâu nhập dữ liệu, tính toán đến tạo báo cáo, giảm thiểu công việc thủ công.
+  + Tích hợp chức năng đa dạng: Hệ thống phần mềm nên có các module như thiết lập tiêu chí, theo dõi tiến độ công việc, thu thập phản hồi và tự động tính điểm dựa trên dữ liệu nhập vào, đảm bảo quy trình liền mạch.
+  + Đào tạo sử dụng công nghệ: Tổ chức các khóa huấn luyện cho nhân viên và quản lý về cách vận hành phần mềm, giúp họ thành thạo trong việc nhập liệu và phân tích kết quả đánh giá.
+  + Chuyển đổi sang đánh giá trực tuyến: Toàn bộ quy trình cần được thực hiện trên nền tảng số, từ nhập dữ liệu, phê duyệt đến lưu trữ, nhằm tiết kiệm thời gian và hạn chế lỗi do con người gây ra.
+  + Đảm bảo an toàn dữ liệu: Hệ thống cần có cơ chế phân quyền truy cập, mã hóa dữ liệu để chỉ những người có thẩm quyền mới xem hoặc chỉnh sửa thông tin, tăng cường tính bảo mật.
+3.2.3. Tăng cường liên kết dữ liệu giữa các đơn vị
+- Vấn đề: Sự thiếu tích hợp giữa các hệ thống dữ liệu của các phòng ban và đơn vị khiến thông tin không được cập nhật kịp thời, ảnh hưởng đến tính chính xác và thời sự của kết quả đánh giá.
+- Giải pháp:
+  + Thiết lập cơ sở dữ liệu chung: Xây dựng một hệ thống dữ liệu tập trung, nơi toàn bộ thông tin đánh giá từ các bộ phận được lưu trữ và đồng bộ hóa, tạo điều kiện thuận lợi cho việc tổng hợp.
+  + Kết nối các hệ thống thông tin: Đảm bảo các hệ thống như quản lý nhân sự, quản lý sản xuất có thể trao đổi dữ liệu tự động với hệ thống đánh giá, giảm thiểu sự rời rạc giữa các đơn vị.
+  + Quy định cập nhật dữ liệu định kỳ: Đặt ra lịch trình cụ thể (hàng tuần hoặc hàng tháng) để các bộ phận cập nhật thông tin, đảm bảo dữ liệu luôn mới và phản ánh đúng tình hình thực tế.
+  + Áp dụng công nghệ đám mây: Sử dụng nền tảng đám mây để lưu trữ dữ liệu, cho phép truy cập từ xa và đồng bộ hóa nhanh chóng giữa các đơn vị, đặc biệt ở các phân xưởng xa trung tâm.
+  + Kiểm soát chất lượng dữ liệu: Thành lập nhóm chuyên trách để kiểm tra, rà soát dữ liệu nhập vào, đảm bảo không có sai sót hoặc thiếu sót trong quá trình liên kết.
+3.2.4. Công khai và số hóa dữ liệu đánh giá
+- Vấn đề: Dữ liệu đánh giá hiện tồn tại rời rạc, chưa được số hóa và công khai trên nền tảng trực tuyến, làm giảm tính minh bạch và khả năng giám sát của các bên liên quan.
+- Giải pháp:
+  + Phát triển cổng thông tin nội bộ: Xây dựng một nền tảng trực tuyến để nhân viên và quản lý truy cập kết quả đánh giá, báo cáo và phản hồi, tăng tính tiện lợi và minh bạch.
+  + Chuyển đổi dữ liệu sang dạng số: Toàn bộ hồ sơ đánh giá cần được số hóa, lưu trữ trên hệ thống điện tử như đám mây hoặc cơ sở dữ liệu tập trung, thay vì giữ dưới dạng giấy tờ.
+  + Phân quyền truy cập rõ ràng: Thiết lập hệ thống quyền truy cập theo vai trò: nhân viên xem kết quả cá nhân, quản lý xem dữ liệu bộ phận, lãnh đạo xem báo cáo tổng hợp, đảm bảo tính bảo mật và phù hợp.
+  + Nâng cao tính minh bạch: Công khai tiêu chí, quy trình và một phần kết quả đánh giá trên cổng thông tin để nhân viên hiểu rõ cách thức đánh giá, từ đó tăng niềm tin vào hệ thống.
+  + Tạo kênh phản hồi: Cho phép nhân viên gửi ý kiến, khiếu nại hoặc đề xuất cải tiến qua cổng thông tin, khuyến khích sự tham gia tích cực vào việc hoàn thiện hệ thống.
+3.2.5. Nâng cao tính nghiêm túc và đồng đều trong thực hiện đánh giá
+- Vấn đề: Một số bộ phận, đặc biệt là phòng ban chuyên môn, lao động gián tiếp và quản lý phân xưởng, chưa thực hiện đánh giá nghiêm túc do thiếu chỉ số đo lường cụ thể, dẫn đến sự không đồng đều và thiếu khách quan.
+- Giải pháp:
+  + Xây dựng tiêu chí riêng biệt: Đối với các vị trí khó đo lường, cần thiết kế tiêu chí dựa trên kết quả công việc như chất lượng báo cáo, tiến độ dự án hoặc hiệu quả quản lý nhóm, thay vì chỉ dựa vào sản lượng.
+  + Giám sát chặt chẽ quá trình đánh giá: Lãnh đạo cần thường xuyên kiểm tra việc thực hiện đánh giá tại các bộ phận, đảm bảo tuân thủ đúng quy trình và thời gian quy định.
+  + Áp dụng chế tài xử lý: Đưa ra biện pháp kỷ luật như cảnh cáo hoặc trừ điểm hiệu suất đối với cá nhân, bộ phận không thực hiện đánh giá nghiêm túc, tạo động lực tuân thủ.
+  + Nâng cao nhận thức qua đào tạo: Tổ chức các buổi tập huấn để nhấn mạnh tầm quan trọng của đánh giá hiệu quả, hướng dẫn cách thực hiện công bằng và khách quan.
+  + Thúc đẩy văn hóa công bằng: Xây dựng môi trường làm việc đề cao tính minh bạch và trách nhiệm trong đánh giá, khuyến khích sự tham gia tích cực từ mọi cấp bậc.
+Các giải pháp trên được thiết kế để giải quyết triệt để các tồn tại, nâng cao hiệu quả và tính minh bạch trong hệ thống đánh giá tại Công ty Than Mạo Khê - TKV, từ đó hỗ trợ cải thiện hiệu suất nhân viên và đạt được mục tiêu chiến lược.
+3.3. Đánh giá hiệu quả của các giải pháp
+3.3.1. Tiêu chí đánh giá hiệu quả:  
+Mức độ hài lòng của nhân viên, cải thiện năng suất, giảm tỷ lệ sai sót trong đánh giá.
+Để đánh giá hiệu quả của các giải pháp đề xuất nhằm nâng cao chất lượng công tác đánh giá hiệu quả làm việc tại Công ty Than Mạo Khê - TKV, ba tiêu chí chính được xây dựng gồm: mức độ hài lòng của nhân viên, cải thiện năng suất lao động, và giảm tỷ lệ sai sót trong đánh giá. Các tiêu chí này được thiết kế để giải quyết triệt để các hạn chế hiện tại, đồng thời tăng cường tính minh bạch và hiệu quả của hệ thống.
+Mức độ hài lòng của nhân viên được đo lường thông qua khảo sát định kỳ, nhằm đánh giá nhận thức của nhân viên về tính công bằng và sự hỗ trợ từ quy trình mới, với mục tiêu tăng ít nhất 20% so với trước khi triển khai. Cải thiện năng suất lao động tập trung vào việc nâng cao hiệu suất, được theo dõi qua các chỉ số như sản lượng khai thác than hoặc thời gian hoàn thành nhiệm vụ, hướng tới tăng trưởng 10% trong vòng 12 tháng. Giảm tỷ lệ sai sót trong đánh giá được xác định bằng cách kiểm tra số lượng khiếu nại và sai lệch trong hồ sơ, đặt mục tiêu giảm 30% so với hệ thống cũ.
+Các giải pháp này không chỉ cải thiện hiệu suất nhân viên mà còn hỗ trợ đạt được mục tiêu chiến lược dài hạn, đảm bảo hệ thống đánh giá minh bạch, chính xác và bền vững thông qua việc theo dõi và điều chỉnh định kỳ.
+3.3.2. Phương pháp theo dõi:  
+Khảo sát định kỳ, phân tích dữ liệu hiệu suất sau 6-12 tháng triển khai.
+Để đánh giá hiệu quả của các giải pháp nâng cao tính minh bạch và hiệu suất trong hệ thống đánh giá nhân viên tại Công ty Than Mạo Khê - TKV, một phương pháp khoa học được đề xuất là thực hiện khảo sát định kỳ và phân tích dữ liệu hiệu suất sau 6-12 tháng triển khai.
+-	Khảo sát định kỳ:
+Các cuộc khảo sát được thiết kế nhằm thu thập ý kiến từ nhân viên và quản lý về mức độ công bằng, minh bạch và hiệu quả của hệ thống đánh giá mới. Thang đo Likert (ví dụ: từ 1 - rất không hài lòng đến 5 - rất hài lòng) được áp dụng để định lượng phản hồi, giúp đo lường nhận thức và sự hài lòng. Kết quả khảo sát sẽ làm rõ điểm mạnh, điểm yếu của hệ thống từ góc nhìn người sử dụng, tạo cơ sở cho cải tiến.
+-	Phân tích dữ liệu hiệu suất
+Dữ liệu hiệu suất làm việc (năng suất lao động, tỷ lệ hoàn thành công việc, mức độ tuân thủ quy trình) được thu thập trước và sau khi áp dụng giải pháp. Sự so sánh này cho phép đánh giá tác động thực tế của hệ thống mới. Phân tích hồi quy được sử dụng để xác định mối liên hệ giữa các yếu tố đánh giá và hiệu suất, từ đó chỉ ra các yếu tố cần tối ưu.
+-	Kết quả và khuyến nghị
+Kết quả từ khảo sát và phân tích dữ liệu được tổng hợp để đề xuất điều chỉnh, đảm bảo hệ thống bền vững, minh bạch và hiệu quả, góp phần nâng cao hiệu suất tổ chức.
+3.4. Kiến nghị và đề xuất
+3.4.1. Kiến nghị với Công ty Than Mạo Khê - TKV
+Để nâng cao hiệu quả của hệ thống đánh giá nhân viên, Công ty Than Mạo Khê - TKV cần triển khai các biện pháp cụ thể nhằm đảm bảo tính khả thi và bền vững của dự án. Các kiến nghị dưới đây tập trung vào ba khía cạnh chính:
+- Cam kết từ lãnh đạo
+Sự tham gia tích cực của ban lãnh đạo là yếu tố quyết định thành công của hệ thống đánh giá. Lãnh đạo cần thể hiện cam kết thông qua việc trực tiếp định hướng quá trình xây dựng hệ thống, giám sát tiến độ, và truyền tải thông điệp rõ ràng về tầm quan trọng của dự án đến toàn thể nhân viên. Các hoạt động cụ thể có thể bao gồm tổ chức các buổi họp định kỳ để thảo luận về hệ thống, giải đáp thắc mắc, và xử lý kịp thời các trở ngại. Hơn nữa, lãnh đạo cần làm gương trong việc áp dụng quy trình đánh giá, từ đó xây dựng niềm tin và thúc đẩy sự hợp tác trong tổ chức.
+- Đầu tư nguồn lực 
+ 	Việc triển khai hệ thống đòi hỏi sự phân bổ hợp lý các nguồn lực tài chính, nhân sự và thời gian. Công ty cần đầu tư vào việc mua sắm công nghệ hỗ trợ, chẳng hạn như phần mềm quản lý hiệu suất, đồng thời tổ chức các khóa đào tạo để nâng cao kỹ năng của nhân viên trong việc sử dụng hệ thống mới. Ngoài ra, cần bố trí một đội ngũ chuyên trách để điều phối dự án, đảm bảo các hoạt động được thực hiện đúng kế hoạch. Đầu tư này không chỉ giúp hệ thống vận hành hiệu quả mà còn mang lại lợi ích lâu dài, như cải thiện năng suất lao động và khả năng cạnh tranh của công ty trong ngành than.
+- Giám sát chặt chẽ quá trình triển khai
+ 	Để đảm bảo hệ thống được triển khai đúng hướng, công ty cần thiết lập cơ chế giám sát chặt chẽ. Một nhóm công tác độc lập nên được thành lập để theo dõi tiến độ thực hiện, đánh giá hiệu quả từng giai đoạn, và báo cáo thường xuyên cho ban lãnh đạo. Cơ chế này giúp phát hiện sớm các sai lệch hoặc khó khăn, từ đó đưa ra các điều chỉnh kịp thời nhằm duy trì tính liên tục và hiệu quả của dự án. Việc giám sát cũng cần kết hợp với các công cụ đo lường định lượng để đảm bảo tính khách quan.
+3.4.2. Đề xuất cho nghiên cứu tương lai
+Để phát triển hệ thống đánh giá hiệu quả trong tương lai, hai hướng nghiên cứu sau được đề xuất nhằm cung cấp cơ sở khoa học và công nghệ cho việc cải tiến:
+- Mở rộng nghiên cứu về tác động của văn hóa doanh nghiệp đến hiệu quả đánh giá 
+Văn hóa doanh nghiệp có ảnh hưởng sâu sắc đến cách nhân viên tiếp nhận và thực hiện các quy trình đánh giá. Trong ngành than, các yếu tố như tính kỷ luật và tinh thần tập thể có thể tác động tích cực hoặc tiêu cực đến hiệu quả hệ thống. Nghiên cứu này nên tập trung phân tích các giá trị văn hóa đặc thù, xác định những yếu tố hỗ trợ hoặc cản trở quá trình đánh giá, và đề xuất các giải pháp điều chỉnh phù hợp. Kết quả sẽ giúp doanh nghiệp tối ưu hóa hệ thống dựa trên đặc điểm văn hóa riêng biệt.
+- Ứng dụng các công nghệ như AI vào đánh giá hiệu quả  
+Trí tuệ nhân tạo (AI) mang lại tiềm năng lớn trong việc cải thiện quy trình đánh giá thông qua khả năng xử lý dữ liệu phức tạp. Các nghiên cứu có thể khám phá cách AI phân tích hiệu suất từ nhiều nguồn dữ liệu, dự đoán xu hướng làm việc, và đưa ra khuyến nghị cải thiện cho từng cá nhân. Ví dụ, AI có thể tự động hóa việc đánh giá các chỉ số hiệu suất, giảm thiểu sai sót chủ quan, và cung cấp cái nhìn toàn diện về năng lực nhân viên. Hướng nghiên cứu này sẽ góp phần hiện đại hóa hệ thống đánh giá và nâng cao hiệu quả quản trị nhân sự.
+Việc áp dụng các kiến nghị về cam kết lãnh đạo, đầu tư nguồn lực, và giám sát triển khai sẽ giúp Công ty Than Mạo Khê - TKV xây dựng một hệ thống đánh giá hiệu quả, chuyên nghiệp. Đồng thời, các nghiên cứu tương lai về văn hóa doanh nghiệp và ứng dụng AI sẽ tạo tiền đề cho những cải tiến vượt bậc, đáp ứng nhu cầu phát triển bền vững của công ty trong bối cảnh ngành công nghiệp hiện đại.
+ 
+KẾT LUẬN
+Nghiên cứu về nâng cao chất lượng đánh giá hiệu quả làm việc tại Công ty Than Mạo Khê - TKV đã đạt được những kết quả quan trọng, mang tính khoa học và thực tiễn cao. Đề án kết hợp chặt chẽ giữa lý thuyết và thực tiễn, từ đó đề xuất các giải pháp cải thiện hệ thống đánh giá hiệu suất tại doanh nghiệp.
+Chương 1 hệ thống hóa các khái niệm, phương pháp và tiêu chí đánh giá, nhấn mạnh vai trò quan trọng của đánh giá hiệu suất trong quản trị nhân sự hiện đại. 
+Chương 2 phân tích thực trạng tại công ty qua khảo sát và dữ liệu, chỉ ra ưu điểm như sự quan tâm của lãnh đạo, nhưng cũng bộc lộ hạn chế: tiêu chí đánh giá chưa đồng bộ, quy trình thủ công dễ sai sót, thiếu minh bạch và công bằng, ảnh hưởng đến quản lý và động lực nhân viên. 
+Chương 3 đưa ra giải pháp cụ thể: chuẩn hóa tiêu chí, tự động hóa quy trình, số hóa dữ liệu để tăng minh bạch, đồng thời nâng cao tính nghiêm túc trong thực thi, phù hợp với thực tế doanh nghiệp.
+Nghiên cứu không chỉ góp phần hoàn thiện hệ thống đánh giá tại Công ty Than Mạo Khê - TKV mà còn là tài liệu tham khảo giá trị cho các doanh nghiệp ngành than và quản trị nhân sự. Kết quả này mở ra hướng nghiên cứu tiếp theo về tối ưu hóa hiệu quả lao động trong bối cảnh công nghiệp hiện đại, đặc biệt trong ngành khai thác than.
+ 
+TÀI LIỆU THAM KHẢO
+Tài liệu tiếng Việt
+1.	Nguyễn Thị Lan (2020). Quản trị nguồn nhân lực. Nhà xuất bản Đại học Quốc gia Hà Nội.
+2.	Trần Văn Minh (2022). Phương pháp đánh giá hiệu quả làm việc trong doanh nghiệp nhà nước. Tạp chí Khoa học Quản trị Kinh doanh, 15(2), 45-60.
+3.	Lê Hoàng Anh (2019). Quản lý nhân sự trong ngành công nghiệp khai thác. Nhà xuất bản Công nghiệp.
+4.	Phạm Quang Huy (2021). Ứng dụng công nghệ trong quản trị nhân sự. Tạp chí Công nghệ và Quản lý, 10(3), 78-90.
+5.	Nguyễn Thị Thu Hà (2023). Phân tích thực trạng đánh giá hiệu quả làm việc tại các doanh nghiệp nhà nước. Đề án Thạc sĩ, Đại học Kinh tế Quốc dân.
+6.	Vũ Đức Thắng (2020). Quản lý hiệu suất trong ngành than. Nhà xuất bản Lao động.
+7.	Hoàng Minh Châu (2017). Chính sách nhân sự trong doanh nghiệp khai thác khoáng sản. Tạp chí Kinh tế và Quản lý, 12(4), 32-45.
+8.	Bộ Lao động - Thương binh và Xã hội (2019). Quy định về đánh giá lao động trong doanh nghiệp nhà nước. Văn bản số 123/2019/TT-BLĐTBXH.
+9.	Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (2021). Báo cáo thường niên 2020. TKV.
+10.	Nguyễn Văn Bình (2023). Đổi mới phương pháp đánh giá nhân viên trong ngành than. Tạp chí Khoa học Mỏ địa chất, 25(1), 55-70.
+11.	Lê Thị Kim Anh (2021). Nghiên cứu các yếu tố ảnh hưởng đến đánh giá hiệu quả làm việc trong doanh nghiệp. Đề án Thạc sĩ, Đại học Bách Khoa Hà Nội.
+12.	Phạm Văn Tuấn (2020). Ứng dụng phương pháp 360 độ trong đánh giá nhân viên tại doanh nghiệp nhà nước. Đề án Thạc sĩ, Đại học Kinh tế TP. Hồ Chí Minh.
+13.	Nguyễn Thị Hồng Nhung (2018). Quản trị nhân sự hiện đại. Nhà xuất bản Kinh tế Quốc dân.
+14.	Trần Thị Thanh Thủy (2019). Đánh giá hiệu quả công việc trong doanh nghiệp Việt Nam. Tạp chí Quản lý Kinh tế, 8(3), 22-35.
+15.	Đỗ Thị Minh Ngọc (2022). Ứng dụng KPIs trong quản trị nhân sự. Nhà xuất bản Tài chính.
+16.	Hồ Văn Nam (2020). Quản lý nguồn nhân lực trong thời đại số hóa. Nhà xuất bản Khoa học và Kỹ thuật.
+17.	Nguyễn Thị Mai Anh (2021). Tối ưu hóa hệ thống đánh giá hiệu quả làm việc tại doanh nghiệp khai thác khoáng sản. Tạp chí Công nghiệp Mỏ, 17(5), 88-102.
+18.	Bùi Văn Hùng (2019). Phát triển nguồn nhân lực trong ngành công nghiệp nặng. Nhà xuất bản Lao động - Xã hội.
+19.	Trần Thị Lan Hương (2022). Đánh giá hiệu suất trong doanh nghiệp nhà nước: Thực trạng và giải pháp. Tạp chí Khoa học Quản lý, 19(1), 15-28.
+20.	Phạm Thị Thu Hà (2020). Ứng dụng công nghệ thông tin trong quản trị nhân sự. Nhà xuất bản Thông tin và Truyền thông.
+21.	Nguyễn Văn Hòa (2018). Quản lý nhân sự trong ngành khai thác than. Tạp chí Khoa học và Công nghệ Mỏ, 14(2), 33-47.
+22.	Lê Thị Thu Trang (2021). Xây dựng hệ thống đánh giá hiệu quả làm việc tại doanh nghiệp Việt Nam. Đề án Thạc sĩ, Đại học Kinh tế Quốc dân.
+23.	Đặng Thị Thu Thủy (2023). Đánh giá hiệu quả lao động trong ngành công nghiệp khai thác. Tạp chí Kinh tế và Phát triển, 20(3), 67-80.
+24.	Hoàng Văn Tuấn (2019). Quản trị nhân sự trong doanh nghiệp nhà nước. Nhà xuất bản Chính trị Quốc gia.
+25.	Nguyễn Thị Kim Oanh (2020). Ứng dụng phương pháp đánh giá 360 độ trong doanh nghiệp Việt Nam. Tạp chí Quản trị Kinh doanh, 16(4), 50-65.
+26.	Trần Văn Long (2021). Quản lý hiệu suất trong ngành công nghiệp khai thác than. Nhà xuất bản Công nghiệp.
+27.	Phạm Thị Minh Thư (2022). Đánh giá hiệu quả làm việc trong thời đại chuyển đổi số. Tạp chí Khoa học và Công nghệ, 18(2), 40-55.
+28.	Nguyễn Văn Đức (2019). Phát triển nhân sự trong doanh nghiệp khai thác khoáng sản. Nhà xuất bản Khoa học Tự nhiên và Công nghệ.
+29.	Lê Thị Hồng Phượng (2020). Xây dựng tiêu chí đánh giá hiệu quả công việc trong doanh nghiệp. Tạp chí Quản lý và Kinh tế, 15(3), 25-38.
+30.	Đỗ Văn Thành (2021). Ứng dụng công nghệ trong đánh giá hiệu quả làm việc tại doanh nghiệp nhà nước. Tạp chí Công nghệ Thông tin, 17(1), 60-75.
+31.	Nguyễn Thị Ngọc Lan (2022). Đánh giá hiệu quả công việc trong ngành khai thác than: Thách thức và giải pháp. Tạp chí Khoa học Mỏ địa chất, 24(2), 45-60.
+32.	Trần Thị Thu Hiền (2020). Quản trị nhân sự trong doanh nghiệp ngành công nghiệp nặng. Nhà xuất bản Lao động.
+Tài liệu tiếng Anh
+33.	Dessler, Gary (2020). Human Resource Management (16th ed.). Pearson.
+34.	Aguinis, Herman (2019). Performance Management (4th ed.). Chicago Business Press.
+35.	Murphy, Kevin R., & Cleveland, Jeanette N. (1995). Understanding Performance Appraisal: Social, Organizational, and Goal-Based Perspectives. Sage Publications.
+36.	Kaplan, Robert S., & Norton, David P. (1996). The Balanced Scorecard: Translating Strategy into Action. Harvard Business Review Press.
+37.	Noe, Raymond A., Hollenbeck, John R., Gerhart, Barry, & Wright, Patrick M. (2019). Human Resource Management: Gaining a Competitive Advantage (11th ed.). McGraw-Hill Education.
+38.	Armstrong, Michael (2018). Armstrong's Handbook of Performance Management: An Evidence-Based Guide to Delivering High Performance (6th ed.). Kogan Page.
+39.	Lawler, Edward E. (2003). Treat People Right!: How Organizations and Individuals Can Propel Each Other into a Virtuous Spiral of Success. Jossey-Bass.
+40.	Grote, Dick (2005). Forced Ranking: Making Performance Management Work. Harvard Business School Press.
+41.	Cappelli, Peter, & Tavis, Anna (2016). The Performance Management Revolution. Harvard Business Review, 94(10), 58-67.
+42.	Schein, Edgar H. (2010). Organizational Culture and Leadership (4th ed.). Jossey-Bass.
+43.	Smith, John A., & Johnson, Robert B. (2023). Challenges in Performance Appraisal in Heavy Industries. Journal of Human Resource Management, 25(3), 112-130.
+44.	Chen, Wei, & Lee, Ming (2022). AI Applications in Performance Evaluation: Evidence from Chinese Factories. International Journal of Industrial Engineering, 18(4), 245-260.
+45.	Kumar, Anil, & Singh, Rajesh (2021). KPIs in Coal Mining: Productivity and Safety Focus. Mining Engineering Journal, 12(2), 78-95.
+46.	Brown, Sarah, & Davis, Michael (2020). 360-Degree Feedback in Mining: Enhancing Accountability and Safety. Safety Science, 130, 104-115.
+47.	Vroom, Victor H. (1964). Work and Motivation. Wiley.
+48.	London, Manuel, & Smither, James W. (1995). Can Multi-Source Feedback Change Perceptions of Goal Accomplishment, Self-Evaluations, and Performance-Related Outcomes? Personnel Psychology, 48(4), 803-839.
+49.	Campbell, John P., McCloy, Rodney A., Oppler, Scott H., & Sager, Christopher E. (1993). A Theory of Performance. In N. Schmitt & W. C. Borman (Eds.), Personnel Selection in Organizations (pp. 35-70). Jossey-Bass.
+50.	Organ, Dennis W. (1988). Organizational Citizenship Behavior: The Good Soldier Syndrome. Lexington Books.
+51.	BHP Billiton (2020). Annual Report 2020. BHP Billiton Ltd.
+52.	Rio Tinto (2018). Mine of the Future: Next Generation Mining. Rio Tinto Group.
+53.	Deloitte (2020). Global Human Capital Trends 2020. Deloitte Insights.
+54.	Gallup (2019). State of the Global Workplace. Gallup Press.
+55.	Pulakos, Elaine D. (2009). Performance Management: A New Approach for Driving Business Results. Wiley-Blackwell.
+56.	Cardy, Robert L., & Leonard, Brian (2011). Performance Management: Concepts, Skills, and Exercises (2nd ed.). M.E. Sharpe.
+57.	DeNisi, Angelo S., & Murphy, Kevin R. (2017). Performance Appraisal and Performance Management: 100 Years of Progress? Journal of Applied Psychology, 102(3), 421-433.
+58.	Fletcher, Clive (2001). Performance Appraisal and Management: The Developing Research Agenda. Journal of Occupational and Organizational Psychology, 74(4), 473-487.
+59.	Boxall, Peter, & Purcell, John (2016). Strategy and Human Resource Management (4th ed.). Palgrave Macmillan.
+60.	Milkovich, George T., & Newman, Jerry M. (2017). Compensation (11th ed.). McGraw-Hill Education.
+
+
+
+
+PHỤ LỤC
+PHIẾU KHẢO SÁT Ý KIẾN CỦA CÁN BỘ NHÂN VIÊN 
+KHI SỬ DỤNG CÔNG CỤ ĐÁNH GIÁ HIỆU QUẢ LÀM VIỆC (KPI) 
+TẠI CÔNG TY THAN MẠO KHÊ - TKV
+Để nâng cao chất lượng công tác đánh giá hiệu quả làm việc của nhân viên tại Công ty Than Mạo Khê - TKV, được sự đồng ý của Ban Lãnh đạo Công ty, chúng tôi tổ chức lấy ý kiến của tập thể CBNV về quá trình thí điểm sử dụng công cụ đánh gía hiệu quả làm việc theo KPI. Những thông tin Ông/Bà trao đổi sẽ rất quan trọng để giúp Công ty phát hiện và kịp thời khắc phục những tồn tại phát sinh và sẽ được thực hiện theo nguyên tắc độc lập, khách quan và bảo mật. Trân trọng cảm ơn sự hợp tác của Ông/bà!
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+10. Ý kiến khác của Anh/Chị về công cụ KPI hiện đang sử dụng?
+Đánh giá công bằng, hiệu quả.
+không có 
+Bình thường
+không có ý kiến gì
+không
+Áp dụng tại các phòng kỹ thuật là hợp lý
+Áp dụng rộng rãi
+Áp dụng rộng rãi
+Áp dụng rộng rãi
+Tốt
+Tiếp tục triển khai thực hiện
+Không
+Một số tiêu chí định lượng bằng kết quả sản xuất chưa được cập nhật chính xác để đánh giá mức độ hoàn thành KPI (VD: sản lượng, mét lò, khối lượng đất đá bóc chỉ được nghiệm thu 4-5 ngày đầu tháng sau trong khi đã đánh giá mức độ hoàn thành từ ngày 01-02 đầu tháng)
+không
+Ko ý kiến gì
+hiệu quả trong mục đích quản lý công việc
+không
+Cần triển khai
+CHưa hợp lý cho các phòng kỹ thuật
+công ty đang áp dụng hiệu quả
+Chưa cụ thể về các công việc phát sinh
+không
+không có ý kiến gì khác
+
+Không 
+Câu 2 tôi chọn cả 4 mục nhưng bản khảo sát không chọn được. 
+Tốt
+chưa hợp lý với ngành
+bản thân tôi thấy hiệu quả cần áp dụng rộng rãi 
+Sử dụng KPI rất tốt nhằm đánh giá năng lực của cá nhân khi giao nhiệm vụ
+công cụ KPI giúp quản lý xây dựng lập kế hoach và thực hiện công việc đảm bảo tiến độ 
+Tốt và thúc đẩy được CBNV làm việc.
+Đạt hiệu quả quản lý công việc
+Hiệu quả
+Tốt
+tiếp tục triển khai
+Hiệu quả trong quản lý công việc
+Sử dụng hiệu quả 
+Nên áp dụng rộng dãi hơn
+Tiếp tục triển khai rộng rãi.
+Rất. Hiệu quả
+Hiệu quả
+Rất hữu ích và hiệu quả
+không
+Rất hay vì đánh giá hiệu quả công việc một cách khách quan, định lượng khối lượng, giải quyết công việc đúng tiến độ và có chất lượng .
+Không có ý kiến gì thêm.
+Phù hợp 
+Không
+hiệu quả
+hiệu quả
+có thể sử dụng bản mềm tránh in tốn kém giấy
+Việc sử dụng các chỉ số KPIs góp phần làm cho việc đánh giá thực hiện công việc trở nên minh bạch, rõ ràng, cụ thể, công bằng và hiệu quả hơn
+Đang và tiếp tục hoàn thiện hơn.
+không
+không
+Tốt
+Không có
+Hiệu quả
+Không
+Công cụ KPI rất hiệu quả trong công việc.
+không
+Không
+Rõ ràng hơn.
+Không có ý Kiến
+Năng suất 
+Đao đạt hiệu quả, sát với chức năng nhiệm vụ
+Cơ bản là tốt
+Không
+Không có
+không
+không
+Làm chủ công việc
+Binh thường
+sử dụng KPI hiệu quả
+sử dụng hiệu quả
+Tốt, cần chú tâm và chi tiết hơn cho các phòng để hiệu quả hơn
+không có ý kiến
+Không ý kiến gì
+Không
+Tiếp tục cho triển khai
+Không
+Không
+Không
+Không
+không
+Không
+Không có ý kiến khác
+Rất tốt
+Tốt. Giúo cá nhân quản trị tốt công việc được giao
+Tốt lên phát huy và nhân rộng
+Không
+Tốt. Hiệu quả
+Không
+Cán bộ quản lý bộ phận khi giao việc cần chú ý đến công việc giao thực hiện độc lập hoặc công việc có liên quan đến nhiều bộ phận khác nhau thì tiến độ thực hiện sẽ bị ảnh hưởng
+Các tiêu chí trong KPI tự xây dựng và đánh giá sẽ nâng cao trách nhiệm bản thân trong làm việc và làm việc có hiệu quả hơn.
+Rất tốt, giúp cho quản lý công việc được hiệu quả
+Nên tiếp tục sử dụng công cụ KPI. 
+Cần tiếp tục triển khai
+không có ý kiến bổ sung
+Đang phát huy tác dụng
+Không
+Tốt
+không
+rất hữu ích!
+Không ý kiến
+Đối với những công việc phát sinh ko được KPIs phản ánh đầy đủ do đã lập KH từ đầu, người LĐ vẫn phải làm, nhiều khi phải điều chỉnh lại KPIs vì việc phát sinh tốn thời gian nhiều!
+CẦN SÁT SAO VÀ CÔNG BẰNG HƠN
+Hiệu quả
+rất tốt
+không
+Không có sỹ kiến khác
+Không
+Tương đối hiệu quả
+Thực hiện tốt
+Tốt
+Tốt
+11. Để công cụ KPI được sử dụng hiệu quả hơn, theo Anh/Chị Công ty cần làm gì?
+Áp dụng rộng rãi.
+Đánh giá chặt chẽ hơn nữa
+làm tốt hơn nữa
+Công ty cần triển khai toàn bộ các đơn vị trong Công ty
+không có ý kiến gì
+Cụ thể hóa hơn các mục tiêu công việc liên quan đến từng cá nhân tập thể
+tích cực triển khai KPIs, hướng dẫn CBNV hiểu rõ về công cụ giao việc. trên cơ sở giao việc hàng tháng, phối phối lượng công việc đăng ký để cuối tháng hoàn thành, tránh tình trạng phải điều chỉnh KPIs
+Thực hiện nghiêm túc
+Thực hiện nghiêm túc
+Thực hiện nghiêm túc
+làm
+Cần đặt ra mục tiêu chính xác và cụ thể. đánh giá kết quả thực hiện thực tế theo mục tiêu đăng ký 
+Không
+Bổ sung cụ thể mức độ hoàn thành KPI để đánh giá xếp loại cán bộ nhân viên, phục vụ xét thưởng và bổ nhiệm cán bộ.
+
+Làm tốt hơn nữa
+Quán triệt và triển khai sâu rộng để đánh giá thực chất hiệu quả công việc
+tiếp tục triển khai, hướng dẫn đến tất cả người lao động
+Cụ thể hóa từng công việc cụ thể theo từng khâu của cá nhân, tập thể
+triển khai rộng rãi hơn
+Có thể chấm điểm online
+Đánh giá, phân trọng số công việc chi tiết.
+nhân rộng số người tham gia
+Cần kiểm soát chỉ tiêu của các phòng
+Quản lý đầu công việc tốt hơn nữa
+Tiếp tục triển khai
+Duy trì thường xuyên, có tổng kết, đánh giá.
+thực hiện nghiem túc các công việc đã đăng ký
+Lãnh đạo quản lý phải hiểu và cân đối lượng công việc hợp lý để triển khai tới người nhận việc nhất là những doanh nghiệp đang trả lương cho người nhận việc theo điểm cào bằng giữa người làm việc có kinh nghiệm và người ít kinh nghiệm
+Áp dung rộng rãi trong Công ty
+Xem xét áp dụng rộng rãi.
+Triển khai áp dụng rộng rãi trong công ty
+áp dụng rộng rái toàn Công ty
+Phố biến sử dụng rộng rãi 
+Sử dụng rộng rãi 
+Mở rộng phạm vi áp dụng kpi xống các px
+Áp dụng rộng rãi toàn Công ty.
+Bổ sung kiến thức nâng câp
+Hiệu quả
+Tiếp tục triển khai công cụ KPI
+Quý hoặc 6 tháng họp, đánh giá hiệu quả, rút kinh nghiệm giúp KPI hiệu quả hơn.
+Cần tiếp tục triển khai công cụ KPI.
+Như vậy là được.
+cần phải góp ý sửa đổi thường xuyên
+ko làm gì 
+Xây dựng cây KPI rõ ràng, sát với mục tiêu công việc đề ra
+hoàn thành công việc
+Tiếp tục thực hiện tốt KPI như hiện tại
+Liên hệ giữa đánh giá KPIs và lương thưởng đồng thời điều chỉnh và tối đa hoá KPIs
+Đưa ra được tiêu chí công việc sát nhất với người sử dụng KPI
+
+Nhân rộng đến các đơn vị
+Nhìn viên chủ động
+Giao việc sát đúng, chất lượng, linh hoạt đặc biệt smat!
+Thay đổi mục tiêu theo từng thời điểm cụ thể.
+Giao mục tiêu công việc gắn với kpi
+
+Nên sử dụng > 6 tiêu chí 
+TCNS cần nghiên cứu áp dụng điểm cộng, điểm trừ linh hoạt cho các phòng vì hiện chưa thấy áp dụng. Bên cạnh đó dù đã cố gắng tuy nhiên vẫn còn việc phòng bố trí việc theo người dẫn đến khó công bằng, nếu sử dụng nới rộng thang đo thì ảnh hưởng mục tiêu chung của phòng.
+Cần triển khai rộng rãi toàn cty
+Đề ra mục tiêu cụ thể
+K áp dụng
+Phối hợp cùng Nhân viên, giúp đỡ để Nhân viên hoàn thành công việc
+Cần bổ sung đánh giá các tiêu chí theo chủ quan cá nhân và điều kiện khách quan
+triển khai rộng rãi đến toàn bộ khối phòng ban và khối gián tiếp tại các công trường sản xuất
+Đôn đốc thực hiện
+Không có
+không
+xây dưng KPI sát với công việc của từng nhân viên trong phòng
+các phòng, ban cần phải phối hợp và thực hiện đồng bộ để đảm bảo tiến độ hoàn thành công việc của người được giao.
+Công việc cố định khi không phát sinh nhiều
+tiếp tục thử nghiệm
+Không
+các mụi tiêu giao chi tiết cụ thể hơn
+giao các mục tiêu cụ thể hơn
+Đánh giá cụ thể và trừ phật, thưởng điểm cụ thể cho từng đơn vị làm tốt và chưa tốt
+không áp dụng
+Không
+Nhân rộng
+Tiếp tục nhân rộng mô hình tới cấp tổ quản lý các phân xưởng
+Cần duy trì tốt công việc đang triển khai tại thời điểm này 
+Làm rõ mục khen thưởng vượt chỉ tiêu 
+Bám sát mục tiêu và điều chỉnh phù hợp
+Áp dụng trong toàn công ty
+Theo tuỳ loại công việc
+Bỏ
+không
+Sự khách quan
+Triển khai đồng loạt, đồng bộ, công bằng
+Giữ nguyên như hiện nay
+C ty cần quan tâm bồi dưỡng và đào tạo nghiệp vụ cho mọi người
+Triển khai xuống các Phân xưởng
+Đưa ra mức tiêu cứ thể, chị tiết 
+Đào tạo bồi dưỡng nghiệp vụ cho mọi ngườip
+Đánh giá chính xác
+Cần sát, thực tế hơn
+Chú trọng đến tính chất của từng công việc khác nhau, tiêu hao thời gian thực hiện khác nhau để giao việc được cân đối, tránh dồn việc cho người này nhưng người khác ít, dẫn đến người nhiều việc sẽ hoàn thành công việc khó khăn hơn.
+Công ty đánh giá chất lượng làm việc của mỗi cá nhân để làm cơ sở cho việc đánh giá cá nhân đó hàng tháng, quý, năm , trả lương thưởng, trừ phạt...
+Áp dụng triệt để đến các bộ phận, công tâm trong nhận xét.
+Thưong xuyên kiểm tra giám sát đôn đốc
+Tiếp tục theo dõi và khảo sát nắm bắt ý kiến của đối tượng sử dụng để hoàn thiện hơn
+Toàn công ty áp dụng 
+Duy trì việc kiểm tra, đánh giá việc đăng ký mục tiêu và kết quả thực hiện 
+Hiện đang sử dụng hiệu quả
+cần tiếp tục khảo sát ý kiến của các đối tượng sử dụng để triển khai ngày cáng phát huy hiệu quả
+Chủ động xây dựng và thực hiện công việc
+Không
+Thực hiện tốt công việc được giao
+Tiếp tục triển khai
+Dùng tiếp
+Nghiên cứu tiếp
+Không ý kiến
+KHÂU ĐÁNH GIÁ CẦN MINH BẠCH, CÔNG BẰNG HƠN
+Tiếp tục thực hiện kpi
+tiếp tục triển khai
+Ko có ý kiến thêm
+không ý kiến
+Duy trì Kiểm tra, đánh giá kết quả 
+Yêu cầu thực hiện nghiêm túc
+Không ý kiến
+Đánh giá đúng mức độ công việc
+Tiếp tục sử dụng KPI
+Smat
+Giao việc sát đảm bảo tính smat
+ 
+
+
+
